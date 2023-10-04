@@ -2342,6 +2342,9 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/Fedoraware/Fedoraware
 
 ## Anti Cheat
+> Forums
+- https://www.unknowncheats.me/forum/general-programming-and-reversing/
+  
 > Guide
 - https://technology.riotgames.com/news/riots-approach-anti-cheat
 - https://github.com/87andrewh/WeirdAntiCheatIdeas
