@@ -1,7 +1,6 @@
 
 # `awesome-game-security`
-
-[![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-game-security)](https://github.com/gmh5225/awesome-game-security/blob/main/LICENSE)
+![image](https://github.com/gmh5225/awesome-game-security/assets/13917777/a39c6322-40ed-45b5-afcb-93e8d5477a0b)
 
 ```
 If you find that some links are not working, you can simply replace the username with gmh5225. 
@@ -40,7 +39,10 @@ Or you can send an issue for me.
 - [Windows Security Features](#windows-security-features)
 - [Windows Subsystem for Linux](#windows-subsystem-for-linux)
 - [Windows Subsystem for Android](#windows-subsystem-for-android)
+- [Windows Emulator](#windows-emulator)
 - [Android Emulator](#android-emulator)
+- [IOS Emulator](#ios-emulator)
+- [Game Boy](#game-boy)
 - [Nintendo Switch](#nintendo-switch)
 
 ## Game Engine
@@ -104,9 +106,13 @@ Or you can send an issue for me.
 - https://github.com/ValveSoftware/halflife [Half-Life 1]
 - https://github.com/SamVanheer/halflife-unified-sdk [Half-Life SDK]
 - https://github.com/alliedmodders/hl2sdk [Half-Life SDK]
+- https://github.com/ezhangle/hlmaster [Half-Life Master Server]
 - https://github.com/MonoGame/MonoGame [.NET]
+- https://github.com/vchelaru/FlatRedBall [.NET 2D]
 - https://github.com/nCine/nCine [2D]
 - https://github.com/gameplay3d/gameplay [2D/3D]
+- https://github.com/NoelFB/blah [C++ 2D]
+- https://github.com/Squalr/Squally [C++ 2D]
 - https://github.com/u3d-community/U3D [C++ 2D/3D]
 - https://github.com/turbulenz/turbulenz_engine [HTML5]
 - https://github.com/egret-labs/egret-core [HTML5]
@@ -132,8 +138,15 @@ Or you can send an issue for me.
 - https://github.com/benjinx/Toon [C++]
 - https://github.com/chrismaltby/gb-studio [GameBoy]
 - https://github.com/orx/orx [C++]
+- https://github.com/volcoma/EtherealEngine [C++]
+- https://github.com/clibequilibrium/EquilibriumEngine [C++] 
 - https://github.com/turanszkij/WickedEngine [C++ 3D]
 - https://github.com/AustinBrunkhorst/Ursine3D [C++ 3D]
+- https://github.com/RavEngine/RavEngine [C++ 3D]
+- https://github.com/asc-community/MxEngine [C++ 3D]
+- https://github.com/jmorton06/Lumos [C++ 2D/3D]
+- https://github.com/fredakilla/GPlayEngine [C++ 2D/3D]
+- https://github.com/crownengine/crown [C++ 2D/3D]
 - https://github.com/FlaxEngine/FlaxEngine [C++/C# 3D]
 - https://github.com/stride3d/stride [C# 3D]
 - https://github.com/Net5F/AmalgamEngine
@@ -142,6 +155,7 @@ Or you can send an issue for me.
 - https://github.com/nitaigao/engine-showcase [Old engine]
 - https://github.com/PanosK92/SpartanEngine [Research-focused game engine designed for real-time solutions]
 - https://github.com/OpenXRay/xray-16 [Improved version of the X-Ray Engine]
+- https://github.com/love2d/love [2D game framework for Lua]
 
 
 > Game Engine Plugins:Unreal
@@ -163,6 +177,7 @@ Or you can send an issue for me.
 - [Unreal Engine plugin providing a set of Hermes endpoints](https://github.com/cdpred/RedTalaria)
 - [Unreal Engine 4 Plugin for Lua APIs implementation](https://github.com/rdeioris/LuaMachine)
 - [Copies the argument string to the clipboard and outputs the characters copied to the clipboard](https://github.com/aoharudesu/Clipboard_Tools-UE4)
+- [Generic graph data structure plugin for ue4](https://github.com/jinyuliao/GenericGraph)
 
 > Game Engine Plugins:Unity
 - [A markdown viewer for unity](https://github.com/gwaredd/UnityMarkdownViewer)
@@ -188,6 +203,8 @@ Or you can send an issue for me.
 - https://github.com/Jaysmito101/cgl
 
 ## Renderer
+- https://github.com/bkaradzic/bgfx [Rendering library]
+- https://github.com/DiligentGraphics/DiligentEngine [Rendering library]
 - https://github.com/kanition/pbrtbook [Physically Based Rendering: From Theory To Implementation]
 - https://github.com/keith2018/SoftGLRender
 - https://github.com/DQLin/VolumetricReSTIRRelease
@@ -269,6 +286,8 @@ Or you can send an issue for me.
 - https://github.com/michal-z/zig-gamedev [Building game development ecosystem for ziglang]
 - https://github.com/OTFCG/Awesome-Game-Analysis [Video game tech analysis resources]
 - https://github.com/killop/anything_about_game [Game Development resources]
+- https://github.com/TastSong/GameProgrammerStudyNotes [Game Development notes]
+- https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide [GTA V Source Code Build Tutorial]
 
 > Source
 - https://github.com/PiMoNFeeD/csgo-src [Leaked CSGO]
@@ -279,8 +298,10 @@ Or you can send an issue for me.
 - https://github.com/hampta/csso-src [CSGO Mod]
 - https://github.com/thomaseichhorn/cs16-client [Rewrote CS1.6]
 - https://github.com/s1lentq/ReGameDLL_CS [Reversed CS1.6]
+- https://github.com/Velaron/cs16-client [Reversed CS1.6]
 - https://github.com/Source2ZE/CS2Fixes [CS2 mod]
 - https://github.com/gmh5225/Game-GTA-re3 [Reversed GTA III, Vice City]
+- https://github.com/gta-reversed/gta-reversed-modern [Reimplementation of GTA:SA 1.0 US]
 - https://github.com/WastedHymn/Grand-Theft-Auto-Modding-Source [Code snippets for Vice City]
 - https://github.com/SmileyAG/ReCZDS [Reversed CZeror]
 - https://github.com/Harrison1/unrealcpp [UE4 C++ examples]
@@ -289,14 +310,18 @@ Or you can send an issue for me.
 - https://github.com/tomlooman/SimpleFPSTemplate [UE4 FPS Demo]
 - https://github.com/tomlooman/EpicSurvivalGame [UE4 FPS Game]
 - https://github.com/QianMo/UE4-Tank-Game [UE4 Game]
-- https://github.com/gmh5225/UE-UE5-FPS-wlaster [UE5 FPS Game]
+- https://github.com/UE-DEMO/UE-UE5-FPS-wlaster [UE5 FPS Game]
 - https://github.com/gmh5225/UE5-FPS-CryptRaider [UE5 FPS Game]
 - https://github.com/LeroyTechnologies/ProjectM [UE5 FPS Game]
 - https://github.com/invi1998/MultiplayerBlasterGame [UE5 FPS Game]
+- https://github.com/DruidMech/MultiplayerCourseBlasterGame [UE5 FPS Game]
+- https://github.com/caydenbullock/UE5MultiplayerProject [UE5 horror game with anti-cheat]
 - https://github.com/perfect-hand/ue5-cardgame [UE5 Card Game]
 - https://github.com/stackOverflower92/FightingGame-UE5 [UE5 Fighting Game]
 - https://github.com/gmh5225/UnrealEngine5-UltimateStreetFighters [UE5 StreetFighters Game]
 - https://github.com/EvelynSchwab/ComponentFuseMechanic [UE5 constraining system]
+- https://github.com/CobraCodeDev/TP_2DSideScrollerBP [UE5 2D template]
+- https://github.com/gmh5225/ue5-roll-a-ball-game [UE5 Roll a Ball Game]
 - https://github.com/tomlooman/ActionRoguelike [UE Roguelike Game]
 - https://github.com/Unity-Technologies/FPSSample [Unity Game]
 - https://github.com/OguzKaira/FPS-Movement [Unity FPS]
@@ -313,6 +338,8 @@ Or you can send an issue for me.
 - https://github.com/WolfireGames/overgrowth [Overgrowth]
 - https://github.com/solidi/hl-mods [Modification For Half-Life]
 - https://github.com/codingben/maple-fighters [A small online game similar to MapleStory]
+- https://github.com/gmh5225/WinAPI_MapleStory [WinAPI MapleStory]
+- https://github.com/ZeromaXHe/MapleStoryCopy [Godot MapleStory]
 - https://github.com/loqix/Fortnite [Fortnite]
 - https://github.com/bradharding/doomretro [DOOM]
 - https://github.com/Daivuk/PureDOOM [DOOM]
@@ -355,6 +382,7 @@ Or you can send an issue for me.
 - https://github.com/johndpope/pianogame [Piano Game]
 - https://github.com/gmh5225/QQTang [QQTang]
 - https://github.com/kvnxiao/storytime [Remake of MapleStory]
+- https://github.com/deathkiller/jazz2-native [Remake of Jazz Jackrabbit 2]
 
 
 ## Game Assets
@@ -384,6 +412,7 @@ Or you can send an issue for me.
 - https://github.com/Volkanite/Push [Monitor GPU/CPU/RAM performance]
 - https://github.com/google/orbit [C/C++ Performance Profiler]
 - https://github.com/wolfpld/tracy [C++ frame profiler]
+- https://github.com/bombomby/optick [C++ Profiler For Games]
 - https://github.com/RomanceTheHeart/Automation_Examples [Automating certain tasks in the Unreal editor]
 - https://github.com/DaedalicEntertainment/ue4-test-automation [Facilitates setting up integration test suits with Unreal Engine 4 Gauntlet]
 - https://github.com/DenuvoSoftwareSolutions/Onlooker [Tool to collect and visualize memory usage of a process tree]
@@ -411,10 +440,13 @@ Or you can send an issue for me.
 > Blockchain Guide
 - https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers
 - https://github.com/slowmist/Web3-Project-Security-Practice-Requirements
+- https://github.com/chaozh/awesome-blockchain-cn [CN Guide]
 - https://en.hackndo.com/ethereum-virtual-machine [EVM]
 - https://github.com/mektigboy/evm-chad [EVM]
 - https://github.com/jtriley-eth/the-ethereum-virtual-machine [EVM]
 - https://github.com/w1nt3r-eth/evm-from-scratch [EVM]
+- https://github.com/shafu0x/evm-from-scratch-book [EVM]
+- https://github.com/Unboxed-Software/solana-course [A complete course for learning Solana]
 - https://github.com/lambdaclass/lambdaworks [Crypto]
 - https://github.com/coinspect/learn-evm-attacks [EVM Security]
 - https://github.com/Dapp-Learning-DAO/Dapp-Learning [Dapp]
@@ -423,18 +455,28 @@ Or you can send an issue for me.
 - https://github.com/chinmay-farkya/solidity-notes [Solidity Notes]
 - https://github.com/nullity00/web3-resources [Web3 resources]
 - https://github.com/JoranHonig/awesome-web3-ai-security [web3 ai security]
+- https://github.com/Malinariy/Solidity-gas-optimizations-tips [Gas optimizations tips]
 
 > Game
 - https://github.com/aakarkun/unity-web3-skyrim-market [Web3 SkyRim Market - Unity]
+- https://github.com/0xFableOrg/0xFable [Trading card game]
 
 > SDK
 - https://github.com/Ankr-network/game-unreal-sdk [Mirage Unreal SDK]
 
+> Tools
+- https://github.com/swiss-knife-xyz/swiss-knife [All your EVM tools in one place]
+- https://github.com/fukaoi/smart-token-tool [SPL Token/ NFT issue tool on solana]
+- https://github.com/cryptoloutre/solana-tools [A bunch of tools to help people in the Solana ecosystem]
+- https://github.com/costa-group/EthIR [A framework for high-level Analysis of Ethereum Bytecode]
+
 > Security
 - https://github.com/SunWeb3Sec [Let's make Web3 more secure]
 - https://github.com/ZhangZhuoSJTU/Web3Bugs [Bugs in Smart Contracts]
+- https://github.com/kadenzipfel/smart-contract-vulnerabilities [A collection of smart contract vulnerabilities]
 - https://github.com/cryptostaker2/blockchain-security-audits [Security audits]
 - https://github.com/obheda12/Solidity-Security-Compendium [Solidity vuln]
+- https://github.com/0xsanny/solsec [Solana smart contract security]
 - https://github.com/crytic [Blockchain Security, by @trailofbits]
 - https://github.com/Quillhash/Solidity-Attack-Vectors [Solidity SmartContract Attack Vectors]
 - https://github.com/crytic/building-secure-contracts [Guidelines and training material to write secure smart contracts]
@@ -451,6 +493,12 @@ Or you can send an issue for me.
 - https://github.com/Picodes/4naly3er [Static Analyzer]
 - https://github.com/Quillhash/QuillAudit_Auditor_Roadmap [Become a Smart Contract Auditor]
 - https://github.com/d-xo/weird-erc20 [Weird ERC20]
+- https://github.com/slowmist/solana-smart-contract-security-best-practices [Solana security]
+- https://github.com/JoranHonig/awesome-web3-ai-security [web3 ai security]
+- https://github.com/costa-group/EthIR [A framework for high-level Analysis of Ethereum Bytecode]
+
+> Contract source code
+- https://github.com/tangtj/bsc-contract-database [BSC]
 
 ## DirectX
 > Guide
@@ -502,12 +550,15 @@ Or you can send an issue for me.
 - https://github.com/googlesamples/android-vulkan-tutorials
 
 > API
+- https://github.com/liblava/liblava [Modern and easy-to-use library for Vulkan]
 - https://github.com/corporateshark/lightweightvk
 
 > Hook
 - https://github.com/Rebzzel/kiero [X86/64 Windows]
 - https://github.com/bruhmoment21/UniversalHookX [X86/64 Windows]
 - https://github.com/DrNseven/Vulkan-Hook [X86/64 Windows]
+- https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook
+- https://github.com/Halen84/ImGuiRDR2Hook
 
 ## Cheat
 > Guide
@@ -554,6 +605,9 @@ Or you can send an issue for me.
 - [Guide about remote Windows kernel debugging](https://github.com/konstantin89/windows-kernel-debugging-guide)
 - https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Games.md [Game Hacking]
 - https://github.com/cragson/osmium [C++ Framework for external cheats]
+- https://github.com/WangXuan95/Xilinx-FPGA-PCIe-XDMA-Tutorial [DMA Tutorial]
+- https://github.com/NetKingJ/awesome-android-security [Android (Samsung) Security Research References]
+- https://github.com/gregkh/kernel-development [Linux kernel development]
 
 > Debugging
 - https://github.com/stars/gmh5225/lists/debugger [List]
@@ -569,6 +623,9 @@ Or you can send an issue for me.
 - https://github.com/noword/GDB-Windows-Binaries [GDB]
 - https://github.com/ajkhoury/ReClassEx
 - https://github.com/ReClassNET/ReClass.NET
+- https://github.com/niemand-sec/ReClass.NET-DriverReader [ReClass DriverReader]
+- https://github.com/imerzan/ReClass-DMA [ReClass DMA]
+- https://github.com/Metick/CheatEngine-DMA [CheatEngine DMA]
 - https://github.com/x64dbg/DotX64Dbg
 - https://github.com/imugee/xdv
 - https://github.com/eteran/edb-debugger [For Linux]
@@ -588,6 +645,8 @@ Or you can send an issue for me.
 - https://ioninja.com/downloads.html [Protocol Analyzer]
 - https://github.com/wilszdev/SteamAntiAntiDebug [Steam]
 - https://github.com/H5GG/H5GG [IOS cheat engine]
+- https://github.com/ri-char/pwatch [HWBP on linux]
+- https://github.com/Ylarod/hardware-breakpoint [HWBP on linux/android]
 
 > Packet Sniffer&Filter
 - https://github.com/WPO-Foundation/win-shaper
@@ -604,9 +663,11 @@ Or you can send an issue for me.
 > SpeedHack
 - https://github.com/absoIute/Speedhack
 - https://github.com/Letomaniy/Speed-Hack
+- https://github.com/IamSanjid/ce_speed_hack
 
 > RE Tools
 - https://dogbolt.org
+- https://github.com/msd0pe-1/cve-maker [Tool to find CVEs and Exploits]
 - https://github.com/mentebinaria/retoolkit [Reverse Engineer's Toolkit]
 - https://github.com/stevemk14ebr/RETools
 - https://github.com/BataBo/ACEPatcher [.NET Patcher]
@@ -614,6 +675,8 @@ Or you can send an issue for me.
 - https://github.com/VollRagm/PTView [Browse Page Tables on Windows]
 - https://github.com/iBotPeaches/Apktool [Apk]
 - https://github.com/user1342/Obfu-DE-Scate [Apk]
+- https://github.com/Genymobile/scrcpy  [Display and control your Android device]
+- https://github.com/barry-ran/QtScrcpy [Display and control your Android device]
 - https://github.com/guided-hacking/GH-Offset-Dumper [Scans for signatures and netvars and dumps their relative offsets]
 - https://github.com/guided-hacking/GH-Entity-List-Finder [Scans game processes for most likely entity list addresses]
 - https://github.com/rednaga/APKiD [PEiD for Android]
@@ -634,24 +697,55 @@ Or you can send an issue for me.
 - https://github.com/VoidSec/ioctlpus [Be used to make DeviceIoControl requests with arbitrary inputs]
 - https://github.com/horsicq/Nauz-File-Detector [Linker/Compiler/Tool detector]
 - https://github.com/gcarmix/HexWalk [Hex Viewer/Editor/Analyzer]
+- https://github.com/RomanRybachek/ioctl_helper [GUI tool for sending IOCTL to windows drivers]
+- https://github.com/sevaa/dwex [DWARF Explorer]
+- https://github.com/katahiromz/RisohEditor [Win32 resource editor]
+- https://github.com/Fadi002/de4py [Toolkit for python reverse engineering]
+- https://github.com/skelsec/minidump [Python library to parse and read Microsoft minidump file format]
+- https://github.com/zodiacon/QuickAsm [x86/x86 assembler and emulator]
+- https://github.com/skylot/jadx [Dex to Java decompiler]
+- https://github.com/google/android-classyshark [Android and Java bytecode viewer]
+- https://github.com/marin-m/vmlinux-to-elf [vmlinux to elf]
+- https://github.com/emlinhax/DbgViewEx [A tool to log ETW Events and system debug logs]
+- https://github.com/amosshi/binaryinternals [View Internals of Binary File]
+- https://github.com/WerWolv/ImHex [A Hex Editor for Reverse Engineers]
+- https://github.com/microsoft/pdblister [Faster version of `symchk /om` for generating PDB manifests]
+- https://github.com/yaxinsn/vermagic [Change vermagic and CRCs of a Linux Kernel Module]
+- https://github.com/rhboot/pesign [Linux tools for signed PE-COFF binaries]
+- https://github.com/SV-Foster/UnSign [Remove all digital signatures from PE/COFF executable]
+- https://github.com/colinsenner/PECleaner [Strips all RICH header information from x86/x64 binaries]
+- https://github.com/kouzhudong/AntiHook [Enum and Remove Hook in Windows]
+- https://github.com/jixiaoyong/ApkSigner [Android Apk Sign Tool]
+- https://github.com/4d61726b/VirtualKD-Redux [A revival and modernization of VirtualKD]
+- https://github.com/ax/apk.sh [A Bash script that makes reverse engineering Android apps easier]
 
 > Fix VMP
 - https://github.com/Obfuscator-Collections/VMProtect
 - https://github.com/wallds/NoVmpy
 - https://github.com/gmh5225/VMP-Vmp3_64bit_disasm-prerelease-
 - https://github.com/gmh5225/Vmp3_utils
+- https://github.com/archercreat/titan
+- https://github.com/NaC-L/Mergen
+- https://github.com/fjqisba/VmpHelper
+
+> Fix Themida
+- https://github.com/sodareverse/TDE
 
 > Fix OLLVM
 - https://bbs.pediy.com/thread-272414.htm
+- https://github.com/obpo-project/obpo-plugin
 
 > Dynamic Binary Instrumentation
 - https://github.com/hzqst/unicorn_pe
 - https://github.com/googleprojectzero/TinyInst
 - https://github.com/revsic/cpp-veh-dbi
+- https://github.com/ZehMatt/CovCane
 - https://github.com/bitdefender/river
 - https://github.com/beehive-lab/mambo [ARM]
 - https://github.com/DynamoRIO/drmemory
 - https://github.com/aroxby/dynre-x86
+- https://github.com/WaterlooBridge/adbi [For Android]
+- https://github.com/crmulliner/adbi [For Android]
 
 > Launcher Abuser
 - https://github.com/Ricardonacif/launcher-abuser
@@ -669,6 +763,12 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/Disabling-Hyper-V [Disable Hyper-V]
 - https://github.com/AdamOron/PatchGuardBypass
 - https://github.com/zer0condition/Demystifying-PatchGuard
+- https://github.com/4l3x777/dse_pg_bypass [DSE & PG bypass via BYOVD attack]
+
+> Driver Signature enforcement
+- https://github.com/gmh5225/dse_hook
+- https://github.com/gmh5225/Dse-Patcher-2
+- https://github.com/gmh5225/DisableDSE
 
 > Windows Kernel Explorer
 - https://github.com/NullArray/WinKernel-Resources [Guide]
@@ -689,17 +789,22 @@ Or you can send an issue for me.
 - https://github.com/DownWithUp/CallMon [AltSystemCallHandlers]
 - https://github.com/everdox/InfinityHook [ETW Hook]
 - https://github.com/AyinSama/Anti-AntiDebuggerDriver [ETW Hook]
+- https://github.com/gmh5225/AcDrv [ETW Hook]
 - https://github.com/FiYHer/InfinityHookPro [ETW Hook Ex]
 - https://github.com/gmh5225/ETWHOOK-InfinityHookClass [ETW Hook Ex]
 - https://github.com/DearXiaoGui/InfinityHookPro-main [ETW Hook WIN11]
 - https://github.com/ThomasonZhao/InfinityHookProMax [ETW Hook WIN11]
+- https://github.com/Oxygen1a1/InfinityHook_latest [ETW Hook WIN11]
+- https://github.com/gmh5225/PDF-PMC-X86 [A Study on PMI in x86-Architecture]
 - https://github.com/KelvinMsft/ThreadSpy [PMI Callback]
 - https://github.com/KelvinMsft/PerfMon [PMI Callback]
 - https://github.com/gmh5225/PMI-hpc [PMI]
+- https://github.com/marcusbotacin/BranchMonitoringProject [PMI]
 - https://github.com/gmh5225/NMI-EnumNmiCallback [Enumerate NMI]
 - https://github.com/gmh5225/Disable-nmi-callbacks [Disable NMI]
 - https://github.com/gmh5225/NMI-nmi_callback [Triggering NMI]
 - https://github.com/gmh5225/Kernel_Anti-Cheat [NMI]
+- https://github.com/jlgreathouse/AMD_IBS_Toolkit [AMD Sampling]
 - https://github.com/intelpt/WindowsIntelPT [Intel PT]
 - https://github.com/CristiNacu/ingsoc [Intel PT]
 - https://github.com/DProvinciani/pt-detector [Intel PT]
@@ -747,16 +852,35 @@ Or you can send an issue for me.
 - https://github.com/Fox2Code/FoxMagiskModuleManager [A module manager for Magisk]
 - https://github.com/Dr-TSNG/ZygiskOnKernelSU [Run Zygisk on KernelSU]
 - https://github.com/svoboda18/magiskboot [Boot Image Modification Tool]
-- https://github.com/xiaoxindada/magiskboot_ndk_on_linux
+- https://github.com/xiaoxindada/magiskboot_ndk_on_linux [Boot Image Modification Tool]
+- https://github.com/ookiineko/magiskboot_build [Boot Image Modification Tool]
+- https://github.com/gmh5225/magiskboot-linux [Use GitHub Actions to build magiskboot]
 - https://github.com/the-dise/EasyPixel [Magisk module that disguises a device under Google Pixel]
-- https://github.com/HuskyDG/MagiskHide [Portable MagiskHide]
+- https://github.com/gmh5225/MagiskHide [Portable MagiskHide]
 - https://github.com/lico-n/ZygiskFrida [Injects frida gadget using zygisk]
+- https://github.com/anasfanani/Magisk-Tailscaled [Magisk module for running Tailscale]
 
 > Frida
 - https://github.com/CrackerCat/strongR-frida-android
 - https://github.com/gmh5225/frida-ue4dump [UE4]
 - https://github.com/jcalabres/hook-updater [Update Frida hooks automatically]
 - https://github.com/gmh5225/frida-boot [A binary instrumentation workshop, with Frida, for beginners]
+- https://github.com/smartdone/Frida-Scripts [Some scripts]
+- https://github.com/0xdea/frida-scripts [Some scripts]
+- https://github.com/SeeFlowerX/frida-smali-trace [Smali trace]
+- https://github.com/Ylarod/Florida [anti-detection version of frida-server]
+- https://github.com/noobpk/frida-android-hook [Trace classes/functions/and modify the return values]
+- https://github.com/apkunpacker/AntiFrida_Bypass [Bypass Some AntiFrida Checks]
+
+> Hook ART(android)
+- https://github.com/PAGalaxyLab/YAHFA
+- https://github.com/canyie/pine
+
+> Android Terminal Emulator
+- https://github.com/termux/termux-app
+- https://github.com/sylirre/neotty
+- https://github.com/jackpal/Android-Terminal-Emulator
+- https://github.com/NeoTerrm/NeoTerm
 
 > Android File Explorer
 - https://github.com/nzcv/note [Guide-zh]
@@ -764,8 +888,14 @@ Or you can send an issue for me.
 - https://github.com/pxb1988/dex2jar
 - https://github.com/skylot/jadx [Dex to Java decompiler]
 - https://github.com/LuckyPray/DexKit-Android [dex deobfuscator]
+- https://github.com/LSPosed/DexBuilder [Generate dex file by c++]
 - https://github.com/rednaga/APKiD [PEiD for Android]
 - https://github.com/APKLab/APKLab [Android Reverse-Engineering Workbench for VS Code]
+- https://github.com/pgp/XFiles [File explorer for (rooted) Android]
+- https://github.com/gmh5225/AdbFileManager [File manager using ADB protocol]
+- https://github.com/MuntashirAkon/AppManager [A full-featured package manager and viewer]
+- https://github.com/pgp/XFiles [A general-purpose file explorer for (rooted) Android]
+- https://github.com/Raival-e/File-Explorer [An Android file explorer]
 
 > Android Memory Explorer
 - https://github.com/misc0110/PTEditor [PT Editor]
@@ -774,12 +904,82 @@ Or you can send an issue for me.
 - https://github.com/mrcang09/Android-Mem-Edit
 - https://github.com/ExploitTheLoop/writemem
 - https://github.com/abcz316/rwProcMem33 [Linux read & write process memory module]
+- https://github.com/ri-char/rwMem [The fork version of rwProcMem33]
 - https://github.com/IAIK/armageddon [Cache attacks on ARM]
 - https://github.com/tamirzb/CVE-2021-1961 [CVE RW]
 - https://github.com/MJx0/KittyMemory [Runtime code patching]
+- https://github.com/gmh5225/KittyMemory-IOS [Runtime code patching for IOS]
 - https://github.com/vrolife/mypower [Memory scanner]
 - https://github.com/DoranekoSystems/memory_server [Memory scanner & analyzer with REST API]
 - https://github.com/KuhakuPixel/AceTheGame [Game Hacking Tools]
+- https://github.com/gmh5225/Android-MemoryTool [RPM]
+- https://github.com/Anonym0usWork1221/C-Android-Memory-Tool [RPM]
+
+> Android Kernel CVE
+- https://github.com/ScottyBauer/Android_Kernel_CVE_POCs [List]
+- https://github.com/tangsilian/android-vuln [List]
+- https://github.com/jsirichai/CVE-2019-2215 [Root for Pixel 2/XL]
+- https://github.com/bluefrostsecurity/CVE-2020-0041 [Root for Pixel 3]
+- https://github.com/j4nn/CVE-2020-0041 [Root for Pixel 3]
+- https://github.com/polygraphene/DirtyPipe-Android [Root for Pixel 6]
+- https://github.com/tiann/DirtyPipeRoot [Root for Pixel 6]
+- https://github.com/Markakd/bad_io_uring [Root for Pixel 6]
+- https://github.com/0x36/Pixel_GPU_Exploit [Root for Pixel7/8 Pro with Android 14]
+
+> Android ROM
+- https://xdaforums.com [Guide]
+- https://github.com/Akipe/awesome-android-aosp [Guide]
+- https://github.com/musabcel/android_rom_list [List]
+- https://developer.android.com/studio/run/win-usb [Google USB Driver]
+- http://www.miui.com/unlock/download.html [Unlocker for xiaomi]
+- https://miuiver.com/miflash [MiFlash]
+- https://xiaomifirmwareupdater.com [Xiaomi Firmware Updater]
+- https://sourceforge.net/projects/recovery-for-xiaomi-devices/files [TWRP for xiaomi]
+- https://github.com/cfig/Android_boot_image_editor [Android ROM tool]
+- https://github.com/badabing2005/PixelFlasher [Android ROM tool for Pixel]
+- https://github.com/Ctapchuk/android_bootable_recovery-OFRP [OrangeFox Recovery]
+
+> Android Device Trees
+- https://github.com/MiCode/kernel_devicetree [xiaomi device trees]
+- https://github.com/cupid-development/ [xiaomi device trees]
+- https://github.com/ymdzq/OFRP-device_xiaomi_mondrian [OFRP for Redmi K60 (mondrian)]
+- https://github.com/flakeforever/device_xiaomi_mondrian [Pixel Experience Plus for for Redmi K6/POCO F5 Pro]
+
+> Android Kernel Source
+- https://source.android.com/docs/setup/build/building-kernels [Docs]
+- https://android.googlesource.com/kernel/manifest/+refs [manifest]
+- https://android.googlesource.com/kernel/manifest [manifest]
+- https://android.googlesource.com/kernel/common [GKI]
+- https://github.com/aosp-mirror/kernel_common [GKI]
+- https://github.com/MiCode/Xiaomi_Kernel_OpenSource [xiaomi kernel]
+- https://github.com/xiaomi-sm8450-kernel [xiaomi kernel]
+- https://github.com/Danda420/kernel_xiaomi_sm8250 [xiaomi kernel for POCO F3/F4]
+- https://github.com/LowTension/android_kernel_xiaomi_sm8475 [Pixel Experience Plus for for Redmi K6/POCO F5 Pro]
+- https://github.com/GrapheneOS-Archive/kernel_msm-coral [Pixel 4/4XL/4a]
+- https://github.com/msnx/KernelSU-Pixel4XL [KernelSU for Google Pixel4XL]
+- https://github.com/universal5433/android_kernel_samsung_universal5433 [samsung 15433]
+- https://github.com/SM7325-AE/android_kernel_motorola_dubai [Moto Edge 30]
+- https://github.com/fiqri19102002/android_kernel_xiaomi_sweet [Redmi Note 10 Pro]
+- https://github.com/ExWhyZed9/android_kernel_gki_common_5.10 [Redmi Note 11T Pro(+) / POCO X4 GT]
+- https://github.com/psavarmattas/android_kernel_oneplus_sm7250-WKSU [KernelSU for Oneplus]
+- https://github.com/huawei-mediatek-devs/android_kernel_huawei_mt6761 [huawei mt6761]
+- https://github.com/pascua28/android_kernel_samsung_sm7150 [samsung sm7150]
+- https://github.com/devhunter1/A146B-KSU [KernelSU for SAMSUNG A14 5G (a14x)]
+- https://github.com/utziacre/android_kernel_xiaomi_pipa [Xiaomi Pad 6 kernel]
+- https://github.com/utziacre/android_kernel_oneplus_sm8250 [OnePlus 8/8T/8Pro/(9R?) kernel]
+
+> Android Root
+- https://github.com/topjohnwu/Magisk
+- https://github.com/tiann/KernelSU
+- https://github.com/riarumoda/KernelSU-4.4 [Adapted for Linux Kernel 4.4 + Google GCC 4.9]
+- https://github.com/bmax121/APatch
+- https://github.com/abcz316/SKRoot-linuxKernelRoot
+- https://github.com/0x36/Pixel_GPU_Exploit
+
+> Android Kernel driver development
+- https://github.com/gmh5225/AndroidDriveSignity [Bypass driver signature verification in Android kernel(ARMv8.3)]
+- https://github.com/gmh5225/android-kernel-driver-template [A GKI Android kernel driver(AArch64) template]
+- https://github.com/dabao1955/kernel_build_action [a action to build kernel automatically]
 
 > Android Kernel Explorer
 - https://docs.kernel.org [Linux Kernel documentation]
@@ -787,25 +987,43 @@ Or you can send an issue for me.
 - https://github.com/yhnu/op7t [DIY Kernel]
 - https://github.com/yabinc/simpleperf_demo [Perf]
 - https://github.com/gmh5225/android_ebpf [EBPF]
+- https://github.com/PShocker/Android_bpf_sys [EBPF]
+- https://github.com/SeeFlowerX/stackplz [EBPF]
 - https://github.com/cloudfuzz/android-kernel-exploitation [Android Kernel Exploitation]
 - https://github.com/Snoopy-Sec/Localroot-ALL-CVE [Root CVE]
 - https://github.com/xmmword/dpatch [Syscall Dispatcher Patching PoC]
 
+> Android Kernel Driver
+- https://github.com/rogxo/kernel_hack
+- https://github.com/Jiang-Night/Kernel_driver_hack
+- https://github.com/WeiJiLab/kernel-hook-framework [Kernel inline hook framework]
+
 > Android Network Explorer
 - https://github.com/emanuele-f/PCAPdroid
 
+> Android memory loading
+- https://github.com/icculus/mojoelf
+- https://github.com/lockedbyte/so_loader
+
 > IOS jailbreak
+- https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool [iOS 15.7 and iOS 16.5]
 - https://github.com/jjolano/shadow
 - https://github.com/gmh5225/IOS-jailbreak--Fugu15
 - https://github.com/Kc57/iHide
 - https://github.com/palera1n/palera1n
 - https://github.com/checkra1n
+- https://github.com/opa334/TrollStore [jailed app]
+- https://github.com/paradiseduo/IPAPatch [Patch iOS Apps without Jailbreak]
+
+> IOS Memory Explorer
+- https://github.com/hackcatml/kfd-explorer [iOS kernel memory explorer]
 
 > Virtual Environments
 - https://github.com/FBlackBox/BlackBox [Android]
 - https://github.com/mandiant/flare-vm
 - https://github.com/hzqst/VmwareHardenedLoader
 - https://github.com/d4rksystem/VMwareCloak
+- https://github.com/utmapp/UTM [Run virtual machines on iOS]
 
 > Decompiler
 - IDA Pro
@@ -818,9 +1036,16 @@ Or you can send an issue for me.
 - https://github.com/angr/binsync [Sync]
 - https://github.com/crytic/ethersplay [EVM dissassembler]
 
+> IDA themes
+- https://github.com/pr701/dp701 [Dark theme for IDA Pro]
+- https://github.com/seanwupi/ida-dark-plus [Dark+ Theme]
+- https://github.com/ioncodes/long_night
+- https://github.com/can1357/IdaThemer
+
 > IDA Plugins
 - https://github.com/vmallet/ida-plugins [List of IDA Plugins]
 - https://github.com/onethawt/idaplugins-list [List of IDA Plugins]
+- https://github.com/NyaMisty/idasdk-collection/tree/master [IDA SDK]
 - https://github.com/zyantific/IDASkins [Skins]
 - https://github.com/endofunky/ida-nord-theme [Skins]
 - https://github.com/giladreich/ida_migrator [Migrate Database]
@@ -832,6 +1057,7 @@ Or you can send an issue for me.
 - https://github.com/aliyunav/Finger [Recognizing Function By Cloud]
 - https://github.com/FelixBer/FindFunc [Recognizing Function By Pattern]
 - https://github.com/kweatherman/sigmakerex [Signature Maker]
+- https://github.com/A200K/IDA-Pro-SigMaker [Signature Maker]
 - https://github.com/Mixaill/FakePDB [PDB Generation From IDA]
 - https://github.com/illera88/Ponce [Symbolic Execution]
 - https://github.com/airbus-cert/ttddbg [Time Travel Debugging]
@@ -849,13 +1075,14 @@ Or you can send an issue for me.
 - https://github.com/AntoineBlaud/EasyRe [Trace Execution]
 - https://github.com/flatz/ida_ps5_elf_plugin [PS5 elf loader]
 - https://github.com/gaasedelen/tenet [Execution Traces]
+- https://github.com/synacktiv/frinet [Frida-based tracer]
 - https://github.com/polymorf/findcrypt-yara [Find crypto constants]
 - https://github.com/anatolikalysch/VMAttack [VMAttack PlugIn for IDA Pro]
 - https://github.com/cseagle/sk3wldbg [Unicorn]
 - https://github.com/RicBent/Classy [Manage classes]
 - https://github.com/archercreat/ida_names [Renames pseudocode windows with the current function name]
 - https://github.com/helpsystems/turbodiff [diff]
-- https://github.com/gmh5225/IDA-diaphora [diff]
+- https://github.com/joxeankoret/diaphora [diff]
 - [An IDAPython module for way more convienent way to Reverse Engineering iOS kernelcaches](https://github.com/cellebrite-labs/ida_kcpp)
 - https://gitlab.com/eshard/d810 [Deobfuscate code at decompilation time by modifying IDA Pro microcode]
 - https://github.com/CKCat/d810 [Deobfuscate code at decompilation time by modifying IDA Pro microcode]
@@ -866,6 +1093,7 @@ Or you can send an issue for me.
 - https://github.com/mahaloz/DAILA [ChatGPT]
 - https://github.com/ke0z/VulChatGPT [ChatGPT]
 - https://github.com/WPeace-HcH/WPeChatGPT [ChatGPT]
+- https://github.com/lzyddf/IDA_Plugin_PCodeGPT [ChatGPT]
 - https://github.com/deadeert/EWS [Emulation]
 - https://github.com/patois/genmc [Display Hex-Rays Microcode]
 - https://github.com/RolfRolles/HexRaysDeob [Hex-Rays Microcode]
@@ -888,6 +1116,38 @@ Or you can send an issue for me.
 - https://github.com/za233/IDADeflat [deflat]
 - https://github.com/RomanRybachek/Copy_RVA [Copy RVA]
 - https://github.com/RevEngAI/reai-ida [RevEng.AI]
+- https://github.com/gaasedelen/microavx [AVX Lifter]
+- https://github.com/thalium/ida_kmdf [IDA kmdf]
+- https://github.com/zengfr/XrefsExt [XrefsExt plugin]
+- https://github.com/sterrasec/genpatch [Python script for patching binary]
+- https://github.com/AzzOnFire/yarka [YARA signature creation]
+- https://github.com/VirusTotal/vt-ida-plugin [VirusTotal plugin]
+- https://github.com/crifan/AutoRename [Auto rename symbol]
+- https://github.com/LAC-Japan/IDA_Plugin_AntiDebugSeeker [Extract anti-debugging]
+- https://github.com/cseagle/blc [Integrate Ghidra's decompiler]
+- https://github.com/Goatman13/ps2_ida_vu_micro [Find and disassembly vu microcode in ps2 executables]
+- https://github.com/arizvisa/ida-minsc [Functional DWIM interface]
+- https://github.com/wINfOG/IDA_Easy_Life [Deobfuscation]
+- https://github.com/senko37/yarascan-ida [Scan file with Yara rules]
+- https://github.com/SamuelTulach/ida-unity-pdb-downloader [Unity PDB Downloader]
+- https://github.com/TrungNguyen1909/aarch64-sysreg-ida [A IDA plugin to show ARM MSRs nicely]
+- https://github.com/danielplohmann/gui-plugin-template [A template for cross-compatible GUI plugins]
+- https://github.com/gmh5225/IDA-MapSymbolParser [IDA Map File Symbol Renamer]
+- https://github.com/gmh5225/IDA-KallsymsSymbolRenamer [IDA kallsyms Renamer]
+- https://github.com/XMCVE/import-kallsyms [IDA Pro Plugin to import /proc/kallsyms for Linux Kernel]
+- https://github.com/tomrus88/OpenLumina [Allows connecting to third party Lumina servers]
+- https://github.com/stuxnet147/IDA-Assistant [Claude-3 models assistant]
+- https://github.com/goseungduk/CE_Tracer-IDA [CheatEngine Value Tracer of IDA]
+- https://github.com/binarly-io/idapcode [Displaying the P-Code for the current function]
+- https://github.com/ElvisBlue/emotet-deobfuscator [IDA plugin to deobfuscate emotet CFF]
+- https://github.com/threatlabz/pikabot-deobfuscator [Deobfuscating Pikabot's strings using RC4 and AES]
+- https://github.com/Pycatchown/ClassMaker [IDA plugin to make classes automatically]
+- https://github.com/airbus-cert/comida [An IDA Plugin that help analyzing module that use COM]
+- https://github.com/Sandspeare/ida2llvm [Lifting IDA Microcode into LLVM IR]
+- https://github.com/crtdll/ida-gameguard-str-dec [GameGuard String Decryption]
+- https://github.com/kkent030315/IDARustCargo [Displaying potentially installed Cargo dependencies]
+- https://github.com/dNop90/dOffset [IDA Pro and Cheat Engine to get the offset of the current module]
+- https://github.com/sneakyevil/ida_functioncolor [IDA Plugin to colorize function definition in pseudocode]
 
 > IDA Signature Database
 - https://github.com/push0ebp/sig-database
@@ -895,6 +1155,7 @@ Or you can send an issue for me.
 > Binary Ninja Plugins
 - https://github.com/Vector35/official-plugins
 - https://github.com/Vector35/community-plugins
+- https://github.com/FuzzySecurity/BinaryNinja-Themes [Theme]
 - https://github.com/EliseZeroTwo/SEH-Helper [SEH Helper]
 - https://github.com/Vector35/tanto [Slices Functions]
 - https://github.com/ergrelet/triton-bn [Triton]
@@ -914,6 +1175,8 @@ Or you can send an issue for me.
 - https://github.com/apekros/binja_sigmaker [Create and find signatures]
 - https://github.com/dayzerosec/AMD-SP-Loader [AMD-SP or PSP firmware]
 - https://github.com/WhatTheFuzz/binaryninja-openai [Integrates OpenAI]
+- https://github.com/dzervas/frinja [Frida plugin for Binary Ninja]
+- https://github.com/danielplohmann/gui-plugin-template [A template for cross-compatible GUI plugins]
 
 > Ghidra Plugins
 - https://github.com/AllsafeCyberSecurity/awesome-ghidra [List]
@@ -936,6 +1199,11 @@ Or you can send an issue for me.
 - https://github.com/Comsecuris/gdbghidra [GDB session]
 - https://github.com/hyuunnn/Hyara [Yara]
 - https://github.com/Deatty/Ghidra-Obfuscation-Detection [Detect obfuscated/complex code]
+- https://github.com/advanced-threat-research/GhidraScripts [Some scripts]
+- https://github.com/fuzzypickles14/BetterStringAnalyzer [A better string analyzer for Ghidra]
+- https://github.com/clearbluejar/ghidriff [Python Command-Line Ghidra Binary Diffing Engine]
+- https://github.com/Katharsas/ghidra-struct-importer [Struct Importer]
+- https://github.com/danielplohmann/gui-plugin-template [A template for cross-compatible GUI plugins]
 
 > Windbg Plugins
 - https://github.com/comaeio/SwishDbgExt
@@ -946,6 +1214,7 @@ Or you can send an issue for me.
 - https://github.com/long123king/dk [Refactored version of tokenext]
 - https://github.com/ch3rn0byl/WinDbg-Extensions [Callback Extension]
 - https://github.com/KasperskyLab/WinDbg-JS-Scripts [JS Scripts]
+- https://github.com/DumpAnalysis/WinDbg_Copilot [WinDbg Copilot]
 
 > X64DBG Plugins
 - https://github.com/x64dbg/x64dbg/wiki/Plugins
@@ -986,6 +1255,7 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/overwatch-iat-fixer [Overwatch IAT Fixer]
 - https://github.com/FreeER/CE-Examples [Some Examples]
 - [Porting ce's monodatacollector to android/ios](https://github.com/gmh5225/frida-il2cpp-datacollector)
+- https://github.com/DoranekoSystems/wasm-ceserver [Analyzing WebAssembly]
 
 > Injection:Windows
 - https://github.com/btbd/smap [Scatter Manual Map]
@@ -1002,6 +1272,7 @@ Or you can send an issue for me.
 - https://github.com/andrew9382/manual_mapping_dll_injector [Manual Map]
 - https://github.com/danielkrupinski/MemJect [Manual Map]
 - https://github.com/can1357/ThePerfectInjector [PTE.User]
+- https://github.com/dumbasPL/fumo_loader [PTE.User]
 - https://github.com/estimated1337/executor [PTE.User]
 - https://github.com/Nou4r/PresentInjector [PTE.User]
 - https://github.com/JGonz1337/kernel-eac-be-injector [PTE.User]
@@ -1022,6 +1293,8 @@ Or you can send an issue for me.
 - https://github.com/SDXT/MMInject [Using NX Bit Swapping and VAD hide]
 - https://github.com/Fahersto/code_injection [Several code injection techniques]
 - https://github.com/KameronHawk/Kernel-VAD-Injector [Hide VAD]
+- https://github.com/nettitude/Tartarus-TpAllocInject [TpAllocInject]
+- https://github.com/SafeBreach-Labs/PoolParty [ThreadPool]
 
 > Injection:Linux
 - https://github.com/ixty/mandibule
@@ -1031,6 +1304,9 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/Android-DLL-Injector
 - https://github.com/reveny/Android-Ptrace-Injector
 - https://github.com/reveny/Android-LD-Preload-Injector
+- https://github.com/ohchase/yaui
+- https://github.com/cs1ime/AndroidSuperInject [Injecting into SELinux-protected system service processes]
+- https://github.com/erfur/linjector-rs [Code injection on Android without ptrace]
 
 
 > DLL Hijack
@@ -1051,6 +1327,7 @@ Or you can send an issue for me.
 - https://github.com/stevemk14ebr/PolyHook
 - https://github.com/stevemk14ebr/PolyHook_2_0
 - https://github.com/WopsS/RenHook
+- https://github.com/bmax121/KernelPatch [Hooking the Linux kernel]
 - https://github.com/Zeex/subhook
 - https://github.com/axhlzy/PyAsmPatch
 - https://github.com/gmh5225/Driver-KDtour [Easy Kernel Detour]
@@ -1061,6 +1338,9 @@ Or you can send an issue for me.
 - https://github.com/SamuelTulach/LightHook [cross-platform hook library]
 - https://github.com/3intermute/arm64_silent_syscall_hook [ARM64 Patching exception handler]
 - https://github.com/kubo/plthook [PLT(Procedure Linkage Table) hook]
+- https://github.com/WeiJiLab/kernel-hook-framework [linux kernel inline hook framework]
+- https://github.com/Rprop/And64InlineHook [Android ARMv8 inline hook framework]
+- https://github.com/GToad/Android_Inline_Hook_ARM64 [Android ARMv8 inline hook framework]
 
 > ROP Finder
 - https://github.com/0vercl0k/rp
@@ -1093,6 +1373,19 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/Driver-RPM-DirectPageManipulation [read physical memory]
 - https://github.com/btbd/ddma [Disk based DMA for ATA and SCSI]
 - https://github.com/gmh5225/DDMA-1 [Disk based DMA for ATA and SCSI]
+- https://github.com/ekknod/vm [Minimal memory library for Windows/Linux]
+- https://github.com/ALittlePatate/TaxiDriver [W/RPM Driver and usermode for Linux]
+- https://github.com/gmh5225/Android-MemoryTool [RPM for Android]
+- https://github.com/Anonym0usWork1221/C-Android-Memory-Tool [RPM for Android]
+
+> DMA
+- https://github.com/ufrisk/pcileech
+- https://github.com/Cr4sh/pico_dma
+- https://github.com/Spuckwaffel/DMALib [DMA library]
+- https://github.com/Metick/DMALibrary [DMA library]
+- https://github.com/ekknod/vm [Minimal memory library for Windows/Linux]
+- https://github.com/imerzan/ReClass-DMA [ReClass DMA]
+- https://github.com/Metick/CheatEngine-DMA [CheatEngine DMA]
 
 > W2S
 - https://github.com/DrNseven/D3D11-Worldtoscreen-Finder
@@ -1112,12 +1405,14 @@ Or you can send an issue for me.
 - https://github.com/iraizo/nvidia-overlay-hijack [Hijack Nvidia]
 - https://github.com/Brattlof/D3DOverlay-Nvidia-Hijack [Hijack Nvidia]
 - https://github.com/gmh5225/NVIDIA-OVERLAY [Hijack Nvidia]
+- https://github.com/Calvin-LLC/nvidia-overlay-hijack [Hijack Nvidia]
 - https://github.com/es3n1n/nvidia-overlay-renderer [Nvidia]
 - https://github.com/muturikaranja/overlay [SetWindowsHookEx]
 - https://github.com/gmh5225/OBS-graphics-hook32-Hook [OBS Hook]
 - https://github.com/plu1337/OBS-Hook [OBS Hook]
 - https://github.com/PierreCiholas/NotAnOverlay [Duplicating with GDI]
 - https://github.com/SsageParuders/Android_Native_Surface [Android Native Overlay]
+- https://github.com/fgsqme/Android_Native_Surface [Android Native Overlay]
 - https://github.com/xBrunoMedeiros/eac-overlay [EAC Overlay]
 - https://github.com/3r4y/imgui-external-overlay [imgui overlay]
 - https://github.com/J0xna/Kernel-Overlay-Hider [Kernel Overlay Hider]
@@ -1133,8 +1428,10 @@ Or you can send an issue for me.
 - https://github.com/Splitx12/StrongSteam [GDI + Steam]
 - https://github.com/Sentient111/KernelDrawing [Drawing from kernelmode without any hooks]
 - https://github.com/wbaby/DoubleCallBack [DWM In Kernel]
+- https://github.com/cs1ime/KernelDwm [DWM In Kernel]
 - https://github.com/gmh5225/DWM-DwmDraw [DWM StackWalk]
 - https://github.com/Polarmods/PolarImGui [Imgui On Android]
+- https://github.com/vrolife/android_native_app_imgui [Imgui On Android]
 - https://github.com/LGLTeam/Android-Mod-Menu [Floating mod menu for Android]
 - https://github.com/springmusk026/ImGui-Unity-With-Layout [Imgui For Unity]
 - https://github.com/springmusk026/Imgui-Unity [Imgui For Unity]
@@ -1148,9 +1445,11 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/Android-OpenGL-ES-Chams [Chams]
 - https://github.com/RequestFX/ImGUI-Advanced-Cheat-Menu [Imgui Menu]
 - https://github.com/gmh5225/External-imgui-Cheat-Menu-Example-2023 [External Imgui Menu]
+- https://github.com/gmh5225/External-ImGui-Android [External Imgui Menu for Android]
 - https://github.com/xProHackerx/imgui-ios-mod-menu [Imgui Menu for IOS]
 - https://github.com/sy1ntexx/egui-d3d11 [Menu]
 - https://github.com/springmusk026/Android-ModMenu-SemiJni [Menu for imgui]
+- https://github.com/fedes1to/Zygisk-ImGui-Menu [ImGui menu using Zygisk]
 
 > UI Interface
 - https://github.com/adamhlt/ImGui-Standalone
@@ -1170,19 +1469,23 @@ Or you can send an issue for me.
 - https://github.com/Xxmmy/vulnerable-driver-scanner [Scans for vulnerable drivers]
 - https://github.com/Sentient111/VulnerableDriverScanner [Scans for vulnerable drivers]
 - https://github.com/shareef12/cpuz [CPU-Z]
+- https://github.com/SamLarenN/CPUZ-DSEFix [CPU-Z]
 - https://github.com/gmh5225/gdrv-loader/tree/1909_mitigation [gdrv.sys]
 - https://github.com/backengineering/VDM [gdrv enhance]
 - https://github.com/Compiled-Code/eac-mapper [gdrv.sys]
 - https://github.com/gmh5225/CVE-2018-19320-LPE [gdrv.sys]
 - https://github.com/gmh5225/CVE-2018-19320 [gdrv.sys]
 - https://github.com/gmh5225/gdriver-lib [gdrv.sys]
+- https://github.com/holi4m/gdrv-loader-v2 [gdrv.sys]
 - https://github.com/gmh5225/KDP-compatible-driver-loader [gdrv.sys]
 - https://github.com/1337kenzo/gdrv-loader-updated [gdrv.sys Win11]
 - https://github.com/eddeeh/kdmapper [iqvw64e.sys]
 - https://github.com/TheCruZ/kdmapper [iqvw64e.sys]
 - https://github.com/Brattlof/kdmapper-1909 [iqvw64e.sys]
+- https://github.com/paysonism/saturn-mapper [iqvw64e.sys]
 - https://github.com/rmccrystal/kdmapper-rs [A kdmapper library for Rust]
 - https://github.com/kkent030315/MsIoExploit [MsIo64.sys]
+- https://github.com/gmh5225/VulnerableKernel_Driver [MsIo64.sys]
 - https://github.com/kkent030315/evil-mhyprot-cli [Mhyprot2.sys]
 - https://github.com/leeza007/evil-mhyprot-cli [Mhyprot2.sys]
 - https://github.com/zer0condition/mhydeath [Mhyprot2.sys]
@@ -1191,6 +1494,7 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/CVE-2020-36603 [Mhyprot2.sys]
 - https://github.com/tanduRE/AvastHV [Avast]
 - https://github.com/iPower/KasperskyHook [Kaspersky]
+- https://github.com/SamuelTulach/EvilKaspersky [Kaspersky]
 - https://github.com/mathisvickie/CVE-2021-21551 [dbutil_2_3.sys]
 - https://github.com/ch3rn0byl/CVE-2021-21551 [dbutil_2_3.sys]
 - https://github.com/SpikySabra/Kernel-Cactus [dbutil_2_3.sys]
@@ -1201,12 +1505,14 @@ Or you can send an issue for me.
 - https://github.com/SamLarenN/SpeedFan-Exploit [Speedfan.sys]
 - https://github.com/Gbps/CapcomLib [Capcom.sys]
 - https://github.com/es3n1n/dolboeb-executor [Capcom.sys]
+- https://github.com/SamLarenN/CapcomDKOM [Capcom.sys]
 - https://github.com/Exploitables/CVE-2015-2291 [IQVW64.sys]
 - https://github.com/KiFilterFiberContext/AsIO-Exploit [AsIO3.sys]
 - https://github.com/IamM47Z/OpenHardwareMonitor-PoC [OpenHardwareMonitorLib.sys]
 - https://github.com/RedCursorSecurityConsulting/PPLKiller [RTCore64.sys]
 - https://github.com/Processus-Thief/PsNotifRoutineUnloader [RTCore64.sys]
 - https://github.com/zeze-zeze/CYBERSEC2023-BYOVD-Demo [RTCore64.sys]
+- https://github.com/oakboat/RTCore64_Vulnerability [RTCore64.sys]
 - https://github.com/ReCryptLLC/CVE-2022-42045 [amsdk.sys]
 - https://github.com/gmh5225/CVE-2022-3699 [LenovoDiagnosticsDriver.sys]
 - https://github.com/estimated1337/lenovo_mapper [LenovoDiagnosticsDriver.sys]
@@ -1222,10 +1528,15 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/zam64-zemina [zam64.sys]
 - https://github.com/gmh5225/CVE-2017-9769 [rzpnk.sys]
 - https://github.com/kite03/echoac-poc [echo_driver.sys]
+- https://github.com/pseuxide/kur [echo_driver.sys]
 - https://github.com/gmh5225/NVDrv [nvaudio.sys]
 - https://github.com/gmh5225/UCMapper [nvaudio.sys]
 - https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 [AMDCpuProfiler.sys]
 - https://github.com/keowu/BadRentdrv2 [rentdrv2.sys]
+- https://github.com/gmh5225/S4Mapper [SignalRgbDriver.sys]
+- https://github.com/gmh5225/dse_hook [winio64.sys]
+- https://github.com/enkomio/s4killer [probmon.sys]
+- https://github.com/floesen/KExecDD [KSecDD.sys]
 
 > Driver Communication
 - https://github.com/gmh5225/Driver-Communication-List
@@ -1265,6 +1576,7 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/Interep-Driver-Leak [NtGdiPolyPolyDraw]
 - https://github.com/gmh5225/Comm-data-ptr-driver [NtGdiPolyPolyDraw]
 - https://github.com/JGonz1337/kernel-eac-be-comm [NtGdiPolyPolyDraw]
+- https://github.com/Lynnette177/Rigel-Driver [NtGdiDdDDINetDispGetNextChunkInfo]
 - https://github.com/NullTerminatorr/NullHook [NtDxgkGetTrackedWorkloadStatistics]
 - https://github.com/gmh5225/Kernel-Cheat-for-directx3D [NtDxgkGetTrackedWorkloadStatistics]
 - https://github.com/gmh5225/Comm-Data-Pointer-Swap [NtDCompositionSetChildRootVisual]
@@ -1284,10 +1596,12 @@ Or you can send an issue for me.
 > EFI Driver
 - https://github.com/mrexodia/EfiCMake
 - https://github.com/tandasat/MiniVisorPkg
+- https://github.com/Shtan7/VisualUEFI-2.0 [Debug source with clion+clang+gdb]
 - https://github.com/SamuelTulach/EasyUefi [Visual Studio template for GNU-EFI]
 - https://github.com/btbd/umap [EFI Manual Map]
 - https://github.com/ekknod/sumap [EFI Manual Map]
 - https://github.com/xtremegamer1/xigmapper [EFI Manual Map]
+- https://github.com/Valthrun/valthrun-uefi-mapper [EFI Manual Map]
 - https://github.com/ekknod/KiSystemStartupMeme [Custom KiSystemStartup]
 - https://github.com/SamuelTulach/efi-memory [RPM]
 - https://github.com/TheCruZ/EFI_Driver_Access [RPM]
@@ -1303,11 +1617,17 @@ Or you can send an issue for me.
 - https://github.com/sa413x/UEFI-Bootloader [Simple mmapper which using UEFI runtime driver]
 - https://github.com/realoriginal/bootlicker [Generic UEFI bootkit used to achieve initial usermode execution]
 - https://github.com/ekknod/efi-monitor [Hooking MmCopyMemory PG safe]
+- https://github.com/leap0x7b/luaboot [A fully scriptable UEFI bootloader]
+- https://github.com/Cr4sh/SmmBackdoorNg [UEFI backdoor]
+- https://github.com/Oliver-1-1/UEFI-Graphic [Simpel usage of graphic in UEFI]
+- https://github.com/Jamesits/BGRTInjector [Changes the boot screen image on a UEFI computer]
 
 > QEMU/KVM/PVE
+- https://github.com/david942j/kvm-kernel-example [Guide]
 - https://github.com/airbus-seclab/qemu_blog [Guide]
 - https://github.com/BigAnteater/KVM-GPU-Passthrough [GPU Passthrough]
 - https://github.com/ispras/qemu/tree/windbg [Windbg]
+- https://github.com/cyberus-technology/virtualbox-kvm [VirtualBox with KVM Backend]
 - https://github.com/Qemu-Gang
 - https://github.com/memflow/memflow-kvm
 - https://github.com/IntroVirt/IntroVirt [Guest introspection library]
@@ -1316,6 +1636,8 @@ Or you can send an issue for me.
 - https://github.com/WCharacter/RDTSC-KVM-Handler [Bypass RDTSC]
 - https://github.com/batusan/Hardened-qemu [Hidden QEMU]
 - https://github.com/zhaodice/qemu-anti-detection [Hidden QEMU]
+- https://github.com/kila58/qemu-patched [Hidden QEMU]
+- https://github.com/Scrut1ny/Hypervisor-Phantom [Hidden QEMU]
 - https://github.com/zhaodice/proxmox-ve-anti-detection [Hidden PVE]
 - https://github.com/tteck/Proxmox [PVE Helper Scripts]
 - https://github.com/nyx-fuzz/QEMU-Nyx [Intel-PT]
@@ -1354,15 +1676,17 @@ Or you can send an issue for me.
 - https://www.unknowncheats.me/forum/anti-cheat-bypass/512002-x64-return-address-spoofing.html
 - https://github.com/Kudaes/Unwinder [Another approach to thread stack spoofing]
 - https://github.com/klezVirus/SilentMoonwalk [a TRUE call stack spoofer]
-- https://github.com/altoid29/SafeCall [header only]
+- https://github.com/gmh5225/spoof-stack-SafeCall [header only]
 - https://github.com/fortra/hw-call-stack [HWBP]
 - https://github.com/evilashz/ProxyAPICall [Custom stack call]
+- https://github.com/Kudaes/Shelter [ROP-based sleep obfuscation]
 
 > Hide
 - https://github.com/JKornev/hidden
 - https://github.com/sina85/hide-file [Hide File]
 - https://github.com/ch3rn0byl/ANTfs [Delete File]
 - https://github.com/KANKOSHEV/NoScreen [Hide Window]
+- https://github.com/gmh5225/WindowProtect [Hide Window]
 - https://github.com/nlepleux/MappedCallback [Hide Callback]
 - https://github.com/rogerxiii/kernel-codecave-poc [Find Codecave]
 - https://github.com/armvirus/SinMapper [Manual Map In Signed Driver]
@@ -1387,15 +1711,19 @@ Or you can send an issue for me.
 - https://github.com/longpoxin/hideroot [Magisk]
 - https://github.com/Rwkeith/Diglett [Hide Kernel Thread]
 - https://github.com/gmh5225/Driver-SessionMapper [Session Driver]
+- https://github.com/gmh5225/Map-file-in-system-space [MiMapViewInSystemSpace]
 - https://github.com/gmh5225/Driver-DriverNoImage [Hijack Driver]
 - https://github.com/gmh5225/Driver-Systemthread-from-PspCidTable-src [Hide Process/Thread/Handle]
+- https://github.com/reveny/Android-Library-Remap-Hide [Remap a library for Android]
 
 > Anti Forensics
 - https://github.com/PaulNorman01/Forensia
 
 > Triggerbot & Aimbot
 - https://github.com/changeofpace/MouHidInputHook
+- https://github.com/gmh5225/AcDrv [mouse hook]
 - https://github.com/ekknod/MouseClassServiceCallbackTrick
+- https://github.com/ekknod/MouseClassServiceCallbackMeme
 - https://github.com/blackhades00/PareidoliaTriggerbot
 - https://github.com/adspro15/DirectInput
 - https://github.com/nbqofficial/norsefire
@@ -1415,6 +1743,9 @@ Or you can send an issue for me.
 - https://github.com/tgillam/HumanMouseMovement
 - https://github.com/Chaoses-Ib/IbInputSimulator [Simulating keyboard, mouse]
 - https://github.com/gmh5225/razer-rzctl [Razer]
+- https://github.com/vsaint1/kernel-mouse [MouClass]
+- https://github.com/gmh5225/android_touch [For Android]
+- https://github.com/gmh5225/PTFakeTouch [For IOS]
 
 > WallHack
 - https://github.com/DrNseven/D3D11-Wallhack
@@ -1424,6 +1755,7 @@ Or you can send an issue for me.
 - https://github.com/btbd/hwid
 - https://github.com/gmh5225/Driver-HWID-btbd-modified
 - https://github.com/gmh5225/HWID-Permanent-HWID-Spoofer
+- https://github.com/gmh5225/PrecisionSpoofer-CPP
 - https://github.com/Theordernarkoz/Hwid-Spoofer-EAC-BE
 - https://github.com/semihcevik/hwidspoofer
 - https://github.com/Theordernarkoz/Hwid--Spoofer
@@ -1448,7 +1780,11 @@ Or you can send an issue for me.
 - https://github.com/ReFo0/hwid-spoofer
 - https://github.com/namazso/hdd_serial_spoofer
 - https://github.com/gmh5225/EASY-HWID-SPOOFER
+- https://github.com/singhhdev/Spoofer-AMIDEWIN
 - https://github.com/gmh5225/HWID-Pasted-Hwid-Spoofer
+- https://github.com/Skotschia/hwid_spoofer
+- https://github.com/SamuelTulach/tpm-spoofer [TPM]
+- https://github.com/s0ngidong3/TPM-SPOOFER [TPM]
 - https://github.com/Android1500/AndroidFaker [Android]
 
 > Bypass Page Protection
@@ -1462,8 +1798,13 @@ Or you can send an issue for me.
 > Game Engine Explorer:Unreal
 - https://github.com/UE4SS-RE [UE RE]
 - https://github.com/asjbdkabs/shootergame-Hack [ShooterGame Demo]
+- https://github.com/cqcallaw/shootergame [ShooterGame Demo]
 - https://github.com/CorrM/CleanCheat [Game cheat base]
+- https://github.com/Encryqed/Dumper-7 [SDK Dump for all of UE4 and UE5]
 - https://github.com/Spuckwaffel/UEDumper [SDK Dump for UE 4.19 - 5.2]
+- https://github.com/BadBrojo/UEDumper-MemProcFS [UEDumper+MemProcFS 4.19 - 5.2]
+- https://github.com/Chuan212/UnrealSDKDumper [SDK Dump for UE 4.23 - 4.27]
+- https://github.com/BobHUnrealTech/UnrealSDKDumper-4.25 [SDK Dump for UE 4.23 - 4.27]
 - https://github.com/Shhoya/Shh0yaUEDumper [SDK Dump]
 - https://github.com/guttir14/UnrealDumper-4.25 [SDK Dump]
 - https://github.com/EZFNDEV/UEDumper [SDK Dump]
@@ -1472,6 +1813,7 @@ Or you can send an issue for me.
 - https://github.com/kp7742/UE4Dumper [SDK Dump For Android]
 - https://github.com/gmh5225/UE4-Apk-Dumper [SDK Dump For Android]
 - https://github.com/Zakaria-Master/UE4Dumper_Emulator [SDK Dump For Android]
+- https://github.com/BigWhite666/BigWhiteTool [SDK Dump For Android]
 - https://github.com/MJx0/iOS_UE4Dumper [SDK Dump For IOS]
 - https://github.com/CorrM/Unreal-Finder-Tool [SDK View]
 - https://github.com/spudgy/UnrealEngine4-SwissKnife [SDK View]
@@ -1490,13 +1832,16 @@ Or you can send an issue for me.
 - https://github.com/Qemu-Gang/QemuUnrealDumper-4.25 [SDK Dump By QEMU]
 - https://github.com/gmh5225/UE-UnrealEngineSDK [Universal Cheat development kit]
 - https://github.com/atenfyr/UAssetGUI [Viewing and modifying UE4 game assets]
+- https://github.com/UE-Explorer/UE-Explorer [Browser and decompiler for UE packages]
 - https://github.com/UE4SS-RE/RE-UE4SS [Re-Host of Unreal Engine 4/5 Scripting System]
 - https://github.com/SerseDioRe/Unreal-Engine-5-PDB [UE5 PDB]
 
 > Game Engine Explorer:Unity
 - https://github.com/mono/mono [mono]
 - https://github.com/dnSpy/dnSpy-Unity-mono [mono]
+- https://github.com/Misaka-Mikoto-Tech/MonoHook [mono hook]
 - https://github.com/dnSpy/Mono.Debugger.Soft [Mono Debugger]
+- https://github.com/imerzan/unispectDMAPlugin [Mono Dump + DMA]
 - https://github.com/Perfare/Il2CppDumper [Il2Cpp Dump]
 - https://github.com/khang06/Il2CppDumper-YuanShen [Il2Cpp Dump for Genshin Impact]
 - https://github.com/Perfare/Il2CppDumper [Il2Cpp Dump GUI]
@@ -1536,6 +1881,10 @@ Or you can send an issue for me.
 - https://github.com/sunnamed434/UnityVulnerableEntryPoint [Looks for a vulnerable entry point]
 - https://github.com/Azvanzed/MatScan [A multi-threaded rust material scanner]
 - https://github.com/vfsfitvnm/frida-il2cpp-bridge [Frida dump Il2Cpp]
+- https://github.com/issuimo/UnityResolve.hpp [Unity cheat framwork]
+- https://github.com/ByNameModding/BNM-Android [Modding il2cpp games]
+- https://github.com/SsageParuders/CheatUnityGames [Unity cheat framwork]
+- https://github.com/sanqiuu/AndroidCheatTemplate [Unity cheat framwork]
 
 > Game Engine Explorer:Source
 - https://github.com/anarh1st47/Source2Dumps [Dump]
@@ -1563,6 +1912,7 @@ Or you can send an issue for me.
 - https://github.com/Jackbail4/VAC-Bypass
 - https://github.com/n00bes/PreventVAC
 - https://github.com/b1scoito/cozinha_loader [Injector]
+- https://github.com/shuruk421/VACKeyRetrieval [Retrieves VAC module ice encryption key]
 
 > Explore AntiCheat System:EAC
 - https://github.com/thesecretclub/CVEAC-2020 [Integrity Checks]
@@ -1594,6 +1944,12 @@ Or you can send an issue for me.
 - https://advancedvectorextensions.github.io/posts/easyanticheat-eprocess-emulation [EProcess Emulation]
 - https://advancedvectorextensions.github.io/posts/easyanticheat-cr3-protection [CR3 Protection]
 - https://github.com/Sinclairq/hierarchy-eac [Bypassing self-integrity]
+- https://github.com/SamuelTulach/eac_cr3_shuffle [Bypassing CR3 protection]
+- https://github.com/Robert01337/Bypassing-EasyAntiCheat-Integrity-check [Bypassing integrity check]
+- https://github.com/CamxxCore/EasyAntiCheat-Emulator [EAC Emulator]
+- https://github.com/Azvanzed/EAC-Runtime-Extractor [Extracts eac's driver at runtime without it touching the disk]
+- https://gist.github.com/gmh5225/b89938f55bcb65637168f88a433c3d4d [Skip EAC thread detection]
+- https://github.com/kprprivate/EAC-CR3-BYPASS [A simple UM + KM example of how to bypass EAC CR3]
 
 > Explore AntiCheat System:BE
 - https://github.com/Schnocker/NoEye
@@ -1616,9 +1972,11 @@ Or you can send an issue for me.
 - https://github.com/es3n1n/be-shellcode-tester [BattlEye shellcodes tester]
 - https://github.com/steffalon/battleye-rust [BattlEye RCON UDP connection]
 - https://github.com/Hypercall/FakeEye [Emulator]
+- https://github.com/mexploitui/FakeEye [Emulator]
 - https://github.com/tr1xxx/battleye-region-walking
 - https://github.com/SurgeGotTappedAgain/Pink-Eye
 - https://github.com/R4YVEN/beservice_intcallbacks [Instrumentation Callback]
+- https://github.com/crtdll/bedaisy-bypass [BEDaisy.sys report bypass]
 
 > Explore AntiCheat System:EQU8
 - https://blog.back.engineering/12/08/2021
@@ -1628,6 +1986,7 @@ Or you can send an issue for me.
 > Explore AntiCheat System:Ricochet
 - https://github.com/weak1337/ricochet_deobfuscator
 - https://github.com/gmh5225/AurumRE
+- https://github.com/gmh5225/ricochet-disabler
 
 > Explore AntiCheat System:RIOT
 - https://github.com/Nuxar1/DecryptionDumper [Dump]
@@ -1643,6 +2002,7 @@ Or you can send an issue for me.
 
 > Explore AntiCheat System:ACE
 - https://github.com/H3d9/sguard_limit
+- https://github.com/rogxo/ReadPhys
 
 > Explore AntiCheat System:G-Presto
 - https://github.com/ARandomPerson7/G-Presto-Anti-Cheat-Reverse-Engineered/blob/main/Main.cpp
@@ -1657,6 +2017,7 @@ Or you can send an issue for me.
 - https://byfron.com/
 - https://www.unknowncheats.me/forum/anti-cheat-bypass/505486-byfron-tech-anti-cheat-released.html
 - https://gist.github.com/gmh5225/cbe40345a9400b01329e025478ffb826 [hash]
+- https://github.com/EnrickMartins/byfron-bypass
 
 > Explore AntiCheat System:NGS
 - https://github.com/st4ckh0und/NexonGameSecurity-bypass
@@ -1675,10 +2036,12 @@ Or you can send an issue for me.
 - https://github.com/icelemon1314/mapleLemon [Private Server-CMS-027]
 - https://github.com/ellermister/MapleStory [Private Server-CMS-079]
 - https://github.com/mrzhqiang/ms079 [Private Server-CMS-079]
+- https://github.com/unsafeblackcat/MapleStoryEx [Private Server-CMS-079]
 - https://github.com/gmh5225/maplestory-v83MaplestoryCPP [Private Server-GMS-083 C++]
 - https://github.com/Fraysa/Destiny [Private Server-GMS-083 C#]
 - https://github.com/Bratah123/ElectronMS [Private Server-KMS-316]
 - https://github.com/reanox/MapleStory-v113-Server-Eimulator [Private Server-TMS-113]
+- https://github.com/izarooni/MapleEzorsia [v83 edits for creating a custom resolution client]
 - https://github.com/Bratah123/BattleAnalysis176 [Battle Analysis]
 - https://github.com/johnsonjason/MapleStoryBuildFramework [AntiCheat]
 - https://github.com/Noosh404/Maplestory-V179-Cheat-Engine [V179 CT]
@@ -1699,6 +2062,8 @@ Or you can send an issue for me.
 - https://github.com/ryantpayton/MapleStory-Client [HeavenMS Client]
 - https://github.com/ryantpayton/MapleStory-Server [HeavenMS Server]
 - https://github.com/YohananTzeviyah/LibreMaple-Client [LibreMaple Client]
+- https://github.com/speedyHKjournalist/MapleServerAndroid [GMS 083 server on Android]
+- https://github.com/Bratah123/ElectronMS [Private Server-KMS-316]
 
 > Game:Minecraft
 - [A minecraft server backend written in c++](https://github.com/mmbednarek/minecpp)
@@ -1784,6 +2149,7 @@ Or you can send an issue for me.
 > Game:WOW
 - https://github.com/helloobaby/wow-IAT-fix
 - https://github.com/namreeb/dumpwow
+- https://github.com/adde88/WoWDumpFix
 - https://github.com/xakepru/x14.08-coverstory-blizzard
 - https://github.com/fail46/OHack [An open-source hack for World of Warcraft]
 - https://github.com/adde88/SkyEngine [Wow Lua Unlocker]
@@ -1802,6 +2168,7 @@ Or you can send an issue for me.
 - https://github.com/oxiKKK/oxware
 - https://github.com/execnone/simple-cs-16-multihack
 - https://github.com/bit-paper/sakura
+- https://github.com/eversinc33/1.6_C2 [C2]
 
 > Game:CSGO
 - https://github.com/csgohacks/master-guide [Guide]
@@ -1816,6 +2183,7 @@ Or you can send an issue for me.
 - https://github.com/danielkrupinski/Anubis
 - https://github.com/s3pt3mb3r/Dainsleif
 - https://github.com/lagcomp/csgo_sdk
+- https://github.com/felix-rs/csgo-sdk [SDK for Rust]
 - https://github.com/ekknod/csf_w [Win SDK]
 - https://github.com/ekknod/csf [Linux SDK]
 - https://github.com/Speedi13/ROP-COMPILER
@@ -1885,18 +2253,28 @@ Or you can send an issue for me.
 - https://github.com/superyu1337/memcs [External]
 - https://github.com/rabbitfishy/sdk [SDK]
 - https://github.com/bloesway/csgo_sdk [SDK]
+- https://github.com/DeiVid-12/SmKernel-CSGO [Driver]
 
 > Game:CS2
+- https://github.com/danielkrupinski/Osiris
+- https://github.com/ro0ti/CS2-Offsets [Offset]
 - https://github.com/sezzyaep/CS2-OFFSETS [Offset]
+- https://github.com/Salvatore-Als/cs2-signature-list [Signature]
 - https://github.com/bruhmoment21/cs2-sdk [SDK]
 - https://github.com/Omn1z/Counter-Strike2-SDK [SDK]
 - https://github.com/0wk/cs2-sdk [SDK]
 - https://github.com/gmh5225/CS2-SDK-Source2Gen [SDK]
 - https://github.com/FrySimpl3/SDK_CS2 [SDK]
+- https://github.com/nikkacs/cs2_sdk [SDK]
+- https://github.com/NotOfficer/cs2-sdk [SDK]
 - https://github.com/a2x/cs2-dumper [Dump]
 - https://github.com/imnotdatguy/csgo2-cheat
 - https://github.com/papstuc/counterstrike2
 - https://github.com/nezu-cc/BakaWare4
+- https://github.com/gmh5225/cs2-fov-changer [FOV changer]
+- https://github.com/clauadv/cs2_webradar [Radar]
+- https://github.com/MoZiHao/CS2_DMA_Radar [DMA Radar]
+- https://github.com/MoZiHao/CS2_DMA_Extrnal [DMA External]
 - https://github.com/gmh5225/vscript_lua51 [VScript]
 - https://github.com/gmh5225/cs2_things [VScript]
 - https://github.com/IMXNOOBX/cs2-external-esp [External]
@@ -1904,8 +2282,29 @@ Or you can send an issue for me.
 - https://github.com/Tokyodidit/cs2External [External]
 - https://github.com/TKazer/CS2_External [External]
 - https://github.com/Valthrun/Valthrun [External]
+- https://github.com/Zckyy/CS2-External [External]
+- https://github.com/sFIsAnExpert/CS2-External-Cheat [External]
+- https://github.com/gmh5225/tim_apple [External]
+- https://github.com/kristofhracza/tim_apple [External]
+- https://github.com/gmh5225/CS2-Cheat [External]
+- https://github.com/Half-People/HPCS2 [External]
+- https://github.com/gmh5225/CS2-External-1 [External]
+- https://github.com/CowNowK/AimStarCS2 [External]
+- https://github.com/Fr0go1/Aeonix-Cs2 [External]
+- https://github.com/xvorost/CS-2-Glow [External]
+- https://github.com/yinleiCoder/cs2-cheat-cpp [External]
+- https://github.com/ByteCorum/DragonBurn [External]
 - https://github.com/KisSsArt/CS2-Cheat-Base [Internal]
+- https://github.com/redbg/CS2-Internal [Internal]
+- https://github.com/Elsie-Kgafela/CS2-Cheat-Base [Internal]
+- https://github.com/chaycee/CS2Internal [Internal]
+- https://github.com/Elsie-Kgafela/csgo2-cheat [Internal]
+- https://github.com/vortex1573/Aurora [Internal]
 
+> Game:Assault Cube
+- https://github.com/gmh5225/external-esp-hack-assaultcube [GDI overlay]
+- https://github.com/SkarSys/AssaultCubeCheat
+- https://github.com/201580ag/AssaultCube_Cheat
 
 > Game:Valorant
 - https://github.com/apekros/valorant_offsets [Offset]
@@ -1913,6 +2312,8 @@ Or you can send an issue for me.
 - https://github.com/ofDataa/offsets [Offset]
 - https://github.com/gmh5225/valorant-externals [Offset]
 - https://github.com/GLX-ILLUSION/valorant-offsets-autoupdater [Offset]
+- https://github.com/Chuan212/ValorantOffsets-China-version [Offset]
+- https://github.com/hadevn/Valorant-SDK-2024 [SDK]
 - https://github.com/skechtew/valorant-gui-imgui-remake [GUI]
 - https://github.com/reahly/valorant-internal
 - https://github.com/gmh5225/Zenti-Valorant-Cheat-Hack-Internal-Spoofer-Driver-Injector-Protector-Auth
@@ -2085,6 +2486,7 @@ Or you can send an issue for me.
 - https://github.com/DontCry361x/ritz-amazing-fortnite-internal-updated [internal]
 - https://github.com/NurdAlert/flirtnite [External]
 - https://github.com/JetBrains-CLion/Fortnite-3.5 [Internal]
+- https://github.com/gmh5225/ZeroGui-Fortnite-Internal [Internal]
 - https://github.com/gmh5225/Fortnite-VoyagerTF [Voyager]
 - https://github.com/gmh5225/Fortnite-External-4 [External]
 
@@ -2111,6 +2513,8 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/PlayerUnknown-s-Battlegrounds-Pubg-Steam-Hack-Esp-Aimbot
 - https://github.com/dot1991/lilypublic
 - https://github.com/kurt2467/PUBG_Internal
+- https://github.com/gmh5225/PUBG-DX
+- https://github.com/gmh5225/PUBGSTAR
 
 > Game:PUBG Lite
 - https://github.com/Zakaria-Master/Pubg-Lite-ESP
@@ -2123,7 +2527,14 @@ Or you can send an issue for me.
 - https://github.com/Zakaria-Master/PUBGM1.6-DeadGame
 - https://github.com/mut1234/BYPASS-PUBG-MOBILE-IMGUI
 - https://github.com/busmanl30/LastIslandOfSurvival-iOSCheat-Source
+- https://github.com/halloweeks/pubg-mobile-pak-extract [pak extracting tool]
+- https://github.com/gmh5225/pubg_mobile_memory_hacking_examples
 
+> Game:Sausage Man
+- https://github.com/gmh5225/AndroidCheatTemplate
+
+> Game:The finals
+- https://github.com/gmh5225/the-finals-interior-cheat
 
 > Game:EFT
 - https://github.com/patrickcjk/TOG [Offsets Generator]
@@ -2177,6 +2588,7 @@ Or you can send an issue for me.
 - https://github.com/nismo1337/meowsense
 - https://github.com/gmh5225/Ow-Outlines [Shows Players through walls]
 - https://github.com/ZEROWyt/Overwatch-2-TOPE-EXTERNAL-CHEAT
+- https://github.com/gmh5225/OW2-wardenrekter [Emulate OW2 AC]
 
 > Game:Paladins
 - https://github.com/gmh5225/Paladins-Internal-Esp-Aimbot-Hack-Cheat-Hack
@@ -2217,6 +2629,9 @@ Or you can send an issue for me.
 - https://github.com/R3voA3/3den-Enhanced [Mod Editor]
 - https://github.com/tym32167/arma3beclient [BattlEye Tool]
 
+> Game:7 Days To Die
+- https://github.com/IntelSDM/7DTD
+
 > Game:AVA
 - https://github.com/boylin0/AVA-Hack
 
@@ -2228,6 +2643,27 @@ Or you can send an issue for me.
 
 > Game:POLYGON [UE5]
 - https://github.com/gmh5225/POLYGON_UE5
+
+> Game:PalWorld [UE5]
+- https://www.unknowncheats.me/forum/other-fps-games/620076-palworld-reversal-structs-offsets.html
+- https://github.com/gmh5225/Palworld-SDK-Dump
+- https://github.com/gmh5225/Palworld-Server-Modding
+- https://github.com/gmh5225/PalWorld-ServerInjector
+- https://github.com/gmh5225/PalWorld-NetCrack
+- https://github.com/luciouskami/palworld_rcon [Server on Windows]
+- https://github.com/luciouskami/palworld_rcon [Server on Windows]
+- https://github.com/A1RM4X/HowTo-Palworld [Server on Linux]
+- https://github.com/jammsen/docker-palworld-dedicated-server [Server based on Linux and Docker]
+- https://github.com/VeroFess/PalWorld-Server-Unoffical-Fix [Server patch]
+- https://github.com/NattKh/PalWorld-Tools [Mod Patcher]
+- https://github.com/localcc/PalworldModdingKit [A modding kit for Palworld]
+- https://github.com/weizhking/PalworldSaved [Save]
+- https://github.com/cheahjs/palworld-save-tools [Save]
+- https://github.com/EternalWraith/PalEdit Save]
+- https://github.com/DysonCheng/PalWorldSettingGenerator [Setting Generator]
+- https://github.com/hualuoo/palworld-helper [Helper]
+- https://github.com/shalzuth/PalWorldAntiCheat [Anti Cheat]
+- https://github.com/g91/PalAntiCheat-poc [Anti Cheat]
 
 > Game:Genshin Impact
 - https://github.com/khang06/mhynot2
@@ -2247,6 +2683,7 @@ Or you can send an issue for me.
 - https://github.com/xTaiwanPingLord/GenshinDebuggerBypass
 - https://github.com/gmh5225/Genshin-EasyPeasy-Bypass [Anti-Debug Bypass]
 - https://github.com/ELJoOker2004/genshin-remove-banner
+- https://github.com/Micah123321/AutoOpenCAK [Bypass tool]
 
 > Game:Honkai Impact
 - https://github.com/BuIlDaLiBlE/BetterHI3Launcher
@@ -2263,6 +2700,7 @@ Or you can send an issue for me.
 > Game:osu
 - https://github.com/fs-c/maniac [External]
 - https://github.com/Ciremun/freedom [difficulty changer & bot]
+- https://github.com/gmh5225/osu-aac [ANTI ANTI CHEAT]
 
 > Game:EldenRing
 - https://github.com/techiew/EldenRingMods [Mod]
@@ -2279,6 +2717,7 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/GTAIII-DE-GoldHook
 
 > Game:GTA5
+- https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide [GTA V Source Code Build Tutorial]
 - https://github.com/gmh5225/GTA-5-SIGS-1.59 [Offset]
 - [About
 Adds drag- to- resize functionality to the main GTA V window](https://github.com/CamxxCore/GTAV_DragResize)
@@ -2289,6 +2728,9 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/Rimmuru/gta-source
 - https://github.com/SyDevTeam/gta5view [Viewer/Editor]
 - https://github.com/skarockoi/pHake [Mod Menu]
+- https://github.com/CamxxCore/ExtendedCameraSettings [Extending functionality of the gameplay camera]
+- https://github.com/medusi/gta5cheat
+- https://github.com/ssyatelandisi/gta5cheat_qt
 
 > Game:Geometry Dash
 - https://github.com/reservedcloud/gd-internal
@@ -2356,6 +2798,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://areweanticheatyet.com [A list of games using anti-cheats]
 - https://github.com/MyHwu9508/alt-V-Anticheat-Guide [GTA5 MP servers]
 - https://github.com/frank2/packer-tutorial [Packer]
+- https://github.com/kid-gorgeous/ghostbusters [Senior Design: Anit-Cheat Detection system]
 
 > Stress Testing
 - https://github.com/niemand-sec/AntiCheat-Testing-Framework [Testing Framework]
@@ -2498,13 +2941,16 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/ORCx41/AtomPePacker [PE X64]
 - https://github.com/Lima-X/Win32.Nebula [PE X64]
 - https://github.com/TheAenema/hm-pe-packer [PE X64]
+- https://github.com/hid3rx/PEPacker [PE X64]
+- https://github.com/xsj3n/x64-EXE-Packer [PE X64]
 - https://github.com/frkngksl/Shoggoth [Polymorphic Encryptor]
 - https://github.com/GunshipPenguin/kiteshield [ELF X64]
 - https://github.com/cff0x/KitsuPE [PE]
-- https://github.com/xsj3n/x64-EXE-Packer [PE X64]
 - https://github.com/KooroshRZ/Evader [PE]
+- https://github.com/greyb1t/GreyM [PE]
 - https://github.com/DavidBuchanan314/stelf-loader [ELF X64 loader]
 - https://github.com/frank2/oxide [Written by Rust]
+- https://github.com/Washi1337/AwaitFuscator [.NET]
 
 > CLR Protection
 - https://github.com/endgameinc/ClrGuard
@@ -2525,16 +2971,21 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/serge-14/encrypted_value [C++]
 - https://github.com/momalab/e3 [C++]
 - https://github.com/obama-gaming/xor-float [C++]
+- https://github.com/emlinhax/xv [C++]
 
 > Lazy Importer
 - https://github.com/JustasMasiulis/lazy_importer
 - https://github.com/hypervisor/kli
 - https://github.com/gmh5225/kli-ex
 - https://github.com/1hAck-0/zeroimport
+- https://github.com/emlinhax/blitz
 
 > Obfuscation Engine
+- https://github.com/vi3t1/vmprotect-3.5.1
 - https://github.com/mike1k/perses
 - https://github.com/weak1337/Alcatraz
+- https://github.com/FigmaFan/Alcatraz
+- https://github.com/es3n1n/obfuscator
 - https://github.com/jnastarot/furikuri
 - https://github.com/nickcano/RelocBonus [Attack Reloc]
 - https://github.com/maoabc/nmmp [Dex]
@@ -2549,9 +3000,11 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/cxxrev0to1dev/nb_obfuscator
 - https://github.com/gmh5225/cerberus [VM]
 - https://github.com/layerfsd/phantasm-x86-virtualizer [VM]
+- https://github.com/felix-rs/guardian-rs [VM]
 - https://github.com/CalebFenton/simplify [Java]
 - https://github.com/open-obfuscator/dProtect [Java/Kotlin]
 - https://github.com/Maldev-Academy/EntropyReducer [Reduce Entropy]
+- https://github.com/Washi1337/AwaitFuscator [.NET]
 
 > Screenshot
 - https://github.com/bavulapati/DXGICaptureApplication [Capture Desktop]
@@ -2570,6 +3023,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 > Game Engine Protection:Unity
 - https://github.com/ls9512/USecurity
 - https://github.com/bmjoy/Unity3D_Obfuscator
+- https://github.com/Ether2023/Ether-Uprotector
 
 > Game Engine Protection:Source
 - [Source Engine serverside anti-cheat plugin. (CS:S, CS:GO, CS:P, TF2)](https://github.com/kanekikun420/NoCheatZ-3)
@@ -2589,7 +3043,9 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/ApexLegendsUC/anti-cheat-emulator
 - https://github.com/ch4ncellor/EAC-Reversal [Reversed EAC]
 - https://github.com/weak1337/BE-Shellcode [Reversed BE Shellcode]
+- https://github.com/SamuelTulach/be_shellcode_dump [Reversed BE Shellcode]
 - https://github.com/codetronik/AndroidAntiCheat [Android Platform]
+- https://github.com/Lazenca/Lazenca-S [Android Platform]
 - https://github.com/MrDiamond64/Scythe-AntiCheat [Minecraft]
 - https://github.com/mateusreb/AntiCheat
 - https://github.com/ComodoSecurity/openedr [EDR]
@@ -2616,6 +3072,9 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/XZNX5/Basic_Anti-Cheat
 - https://github.com/MegaAntiCheat
 - https://github.com/donnaskiez/ac
+- https://github.com/gmh5225/AcDrv
+- https://github.com/sc-222/Mandragora [For Assault Cube]
+- https://github.com/J-Tanzanite/Little-Anti-Cheat [For Source Games]
 
 > Analysis Framework
 - https://github.com/pandora-analysis/pandora
@@ -2651,6 +3110,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/waldo-vision/aimbot-detection-prototype [Deep Learning]
 - https://github.com/bananya-ml/anti-cheat [Deep Learning for CSGO]
 - https://github.com/hkx3upper/Karlann [Keyboard]
+- https://github.com/Oliver-1-1/MouseDetection [Mouse]
 
 > Detection:Hide
 - https://github.com/KANKOSHEV/Detect-HiddenThread-via-KPRCB
@@ -2664,6 +3124,10 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/donnaskiez/nmi-callback-handler [Mapped Driver by NMI Callback]
 - https://github.com/gmh5225/Kernel_Anti-Cheat [NMI]
 - https://github.com/jafarlihi/modreveal [Find hidden Linux kernel modules]
+- https://github.com/gmh5225/Hidden-Thread-Finder [Detect hidden threads]
+- https://github.com/gmh5225/StealthSytemThreadFinderBE [Detect hidden threads]
+- https://github.com/eversinc33/unKover [Using NMI/APC to detect mapped drivers]
+- https://github.com/gmh5225/Rootkit-2 [Using CsrRootProcess to detect hidden process]
 
 > Detection:Vulnerable Driver
 - https://github.com/Deputation/hygieia
@@ -2686,9 +3150,12 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/Ahora57/MAJESTY-technologies
 - https://github.com/therealdreg/anticuckoo [Cuckoo]
 - https://github.com/strazzere/anti-emulator [Android Anti-Emulator]
+- https://github.com/gmh5225/Android-Emulator-Detection [Android Anti-Emulator]
 - https://github.com/LloydLabs/wsb-detect [Windows Sandbox ("WSB")]
 - https://github.com/DevDaveid/AntiDebug-AntiVM [Vbox]
 - https://github.com/LukeGoule/compact_vm_detector
+- https://github.com/kernelwernel/VMAware [VM detection library]
+- https://github.com/su-vikas/conbeerlib [Android library for detecting Android virtual containers]
 
 > Detection:HWID
 - [All methods of retrieving unique identifiers(HWIDs) on your PC](https://www.unknowncheats.me/forum/anti-cheat-bypass/333662-methods-retrieving-unique-identifiers-hwids-pc.html)
@@ -2701,6 +3168,8 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
 - https://github.com/lfreist/hwinfo
 - https://github.com/KDIo3/PCIBan
+- https://github.com/trustdecision/trustdevice-android [Android]
+- https://github.com/trustdecision/trustdevice-ios [IOS]
 
 > Detection:SpeedHack
 - https://github.com/DoranekoSystems/cheap-engine [Android]
@@ -2727,6 +3196,10 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 > Detection:Obfuscation
 - https://github.com/mrphrazer/obfuscation_detection
 
+> Detection:Android root
+- https://github.com/rushiranpise/detection [Collection of Various Root Detection Apps for Android]
+- https://github.com/vvb2060/KeyAttestation [Bootloader]
+
 > Detection:Magisk
 - https://github.com/vvb2060/MagiskDetector
 - https://github.com/canyie/MagiskKiller
@@ -2735,6 +3208,8 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 
 > Detection:Frida
 - https://github.com/darvincisec/DetectFrida
+- https://github.com/qtfreet00/AntiFrida
+- https://github.com/muellerberndt/frida-detection
 
 > Detection:Overlay
 - https://github.com/geeksonsecurity/android-overlay-protection [Android]
@@ -2757,7 +3232,11 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/rbmm/USN
 - https://github.com/rbmm/SearchEx
 - https://github.com/ch3rn0byl/ANTfs
+- https://github.com/strozfriedberg/ntfs-linker
+- https://github.com/NTFSparse/ntfs_parse
 - https://github.com/bluecapesecurity/PWF [Windows Forensics Training]
+- https://github.com/qwqdanchun/Pillager [For exporting and decrypting useful data from target computer]
+- https://github.com/Psmths/windows-forensic-artifacts [Guide to the various Windows forensic artifacts]
 
 > Dynamic Script
 - https://github.com/can1357/NtLua
@@ -2784,6 +3263,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/paranoidninja/EtwTi-Syscall-Hook [Instrumentation Callback]
 - https://github.com/jackullrich/syscall-detect [Instrumentation Callback]
 - https://github.com/thetuh/anticheat-poc [Instrumentation Callback]
+- https://github.com/1027565/InstrumentationCallbacks [Instrumentation Callback]
 - [Register VEH by hooking RtlpCallVectoredHandlers](https://github.com/AmJayden/custom-VEH)
 - [ATPMiniDump Callback](https://github.com/b4rtik/ATPMiniDump)
 - https://github.com/jimbeveridge/readdirectorychanges [ReadDirectoryChangesW]
@@ -2804,6 +3284,8 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/0vercl0k/kdmp-parser [Python 3 bindings]
 - https://github.com/mrexodia/dumpulator [Emulating code in minidump files]
 - https://github.com/0vercl0k/symbolizer [Execution trace symbolizer]
+- https://github.com/libyal/libmdmp [Minidump]
+- https://github.com/tasox/miniDumpReader [Minidump]
 
 > Sign Tools
 - https://github.com/mtrojnar/osslsigncode
@@ -2814,6 +3296,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/namazso/MagicSigner [Sign Leaked Cert]
 - https://github.com/hzqst/FuckCertVerifyTimeValidity [Sign Leaked Cert]
 - https://github.com/mathisvickie/sign-expired [Sign Leaked Cert]
+- https://github.com/hackerhouse-opensource/SignToolEx [Sign Leaked Cert]
 
 > Backup File
 - https://github.com/guidoreina/minivers [Generates Backup Copies]
@@ -2823,7 +3306,9 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 
 > Black Signature
 - https://github.com/gmh5225/BlackSignatureDriver
+- https://github.com/jsecurity101/MSFT_DriverBlockList
 - https://github.com/Harvester57/CodeIntegrity-DriverBlocklist
+- https://github.com/gmh5225/MS-Vulnerable-Driver-List [Convert Microsoft's blocklist to a hash list]
 
 ## Some Tricks
 > Windows Ring0
@@ -2856,6 +3341,8 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - [GetWindowInfo In Kernel Mode](https://www.unknowncheats.me/forum/anti-cheat-bypass/519261-getwindowinfo.html)
 - [Hook KdTrap(Windows global exception hander)](https://www.unknowncheats.me/forum/anti-cheat-bypass/500156-hook-kdtrap-windows-global-exception-hander.html) [Hook KdTrap]
 - https://github.com/gmh5225/Hook-KdTrap [Hook KdTrap]
+- https://github.com/gmh5225/AcDrv [Global exception/KdpDebugRoutineSelect]
+- https://github.com/gmh5225/AcDrv [SwapContext hook]
 - https://github.com/gmh5225/Driver-SoulExtraction [Extracting cert information]
 - https://github.com/Ido-Moshe-Github/CiDllDemo [Use ci.dll API for validating Authenticode signature of files]
 - https://github.com/mihaly044/pedigest [Calculating the authenticode digest]
@@ -2868,6 +3355,10 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/AnalogFeelings/KmdfMandelcheck [BSOD]
 - https://github.com/stuxnet147/PiDqSerializationWrite-Example [PiDqSerializationWrite]
 - https://github.com/Rythorndoran/enum_real_dirbase [Find real dirbase]
+- https://github.com/backengineering/POC-ExFlushTb [A POC for monitoring Tb]
+- https://github.com/Cr4sh/KernelForge [A library to develop kernel level Windows payloads for post HVCI era]
+- https://gist.github.com/gmh5225/ab00f831ffdf4ef608ab3b6eb0d37250 [Create process from KernelMode via APC]
+- https://github.com/gmh5225/Map-file-in-system-space [MiMapViewInSystemSpace]
 
 
 > Windows Ring3
@@ -2901,6 +3392,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - [get process token whose integrity level is system and manipulate it to get privilege escalation](https://github.com/gmh5225/manipulating_token)
 - [A library that meant to perform evasive communication using stolen browser socket](https://github.com/Idov31/Venom)
 - https://github.com/cpz/trinity [Fully disables & removes Windows Defender]
+- https://github.com/EvilGreys/Disable-Windows-Defender- [Disable Windows Defender]
 - https://github.com/gabriellandau/ShadowStackWalk [Finding Truth in the Shadows]
 - https://github.com/gmh5225/r0ak [r0ak]
 - https://github.com/ZeroMemoryEx/Wizard-Loader [Abuse Xwizard.exe for DLL Side-Loading]
@@ -2918,7 +3410,10 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/ekknod/usbsn [USB serial number changer (root only)]
 - https://github.com/gmh5225/Android-privilege-CVE-2022-20452-LeakValue [Privilege Escalation]
 - https://github.com/tiann/KernelSU [A Kernel based root solution for Android GKI]
-- https://github.com/abcz316/linuxKernelRoot [Kernel root]
+- https://github.com/MlgmXyysd/KernelSU_Debug [KernelSU modified for debugging]
+- https://github.com/CoolestEnoch/kernel-su-huawei-nova2 [KernelSU for huawei]
+- https://github.com/gmh5225/android_kernel_huawei_hi6250-8_Exp [KernelSU for huawei]
+- https://github.com/abcz316/SKRoot-linuxKernelRoot [Kernel root]
 - https://github.com/Dr-TSNG/ZygiskOnKernelSU [Run Zygisk on KernelSU]
 
 
@@ -2934,9 +3429,12 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 
 
 ## Windows Subsystem for Linux
+- https://github.com/microsoft/WSL2-Linux-Kernel
 - https://github.com/sxlmnwb/windows-subsystem-linux
 
 ## Windows Subsystem for Android
+- https://github.com/K3V1991/How-to-download-and-install-WSA [Guide]
+- https://github.com/KiruyaMomochi/wsa-kernel-build [Build WSA Kernel with Docker]
 - https://github.com/sergiovillaverde/win11_apk_installer
 - https://github.com/LSPosed/MagiskOnWSA
 - https://github.com/alesimula/wsa_pacman
@@ -2944,6 +3442,11 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/Paxxs/BuildWSA
 - https://github.com/LSPosed/MagiskOnWSALocal
 - https://github.com/cinit/WSAPatch [Make WSA run on Windows 10]
+- https://github.com/MustardChef/WSABuilds
+- https://github.com/LSPosed/WSA-Kernel-SU [WSA with KernelSU]
+
+## Windows Emulator
+- https://github.com/brunodev85/winlator [Android application for running Windows applications with Wine and Box86/Box64]
 
 ## Android Emulator
 - https://github.com/Genymobile
@@ -2952,9 +3455,24 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/google/android-emulator-hypervisor-driver
 - https://github.com/ant4g0nist/rudroid [Rust]
 - https://github.com/qemu-gvm/qemu-gvm [QEMU]
+- https://github.com/quarkslab/AERoot [Root]
+
+## IOS Emulator
+- https://github.com/ChefKissInc/qemu-apple-silicon
+
+## Game Boy
+- https://github.com/xkevio/kevboy [Emulator]
+- https://github.com/vojty/feather-gb [Emulator]
+- https://github.com/chrismaltby/gb-studio [GB Studio]
 
 ## Nintendo Switch
-- https://github.com/TheNightmanCodeth/yuzu
+- https://github.com/yuzu-mirror
+- https://github.com/Ryujinx/Ryujinx
+- https://github.com/gmh5225/Nintendo-Switch-Emulator-yuzu
+- https://github.com/gmh5225/yuzu-android
+- https://github.com/Logboy2000/yuzu-archive
+- https://github.com/gmh5225/nuzu [Yuzu based repository]
 - https://github.com/CTCaer/hekate [A GUI based Nintendo Switch Bootloader]
 - https://github.com/Atmosphere-NX/Atmosphere [Customized firmware]
 - https://github.com/tomvita/SE-tools [Memory hacking]
+- https://github.com/jakcron/nstool [General purpose read/extract tool]
